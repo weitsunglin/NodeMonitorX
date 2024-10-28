@@ -1,15 +1,18 @@
+//依賴
 const fs = require("fs");
 const path = require("path");
-const MainModel = require("../models/MainModel");
 
-class MainController {
+//Model
+const systemInfoModel = require("../models/systemInfoModel");
+
+class systemInfoController {
   constructor() {
-    this.mainModel = new MainModel();
+    this.systemInfoModel = new systemInfoModel();
   }
 
   getSystemInfo(req, res) {
-    const systemInfo = this.mainModel.getSystemInfo();
-    fs.readFile(path.join(__dirname, "../views/mainView.html"), "utf-8", (err, data) => {
+    const systemInfo = this.systemInfoModel.getSystemInfo();
+    fs.readFile(path.join(__dirname, "../views/SystemInfoView.html"), "utf-8", (err, data) => {
       if (err) return res.writeHead(500).end("Error loading view");
       const renderedView = data.replace(
         /<div id="system-info">.*<\/div>/s,
@@ -20,4 +23,4 @@ class MainController {
   }
 }
 
-module.exports = MainController;
+module.exports = systemInfoController;
