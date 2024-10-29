@@ -12,4 +12,3 @@ class systemInfoModel {
   }
   
   module.exports = systemInfoModel;
-  
