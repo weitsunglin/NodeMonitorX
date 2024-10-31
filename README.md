@@ -1,5 +1,7 @@
 # NodeMonitorX
 
+![logo](https://github.com/weitsunglin/node_js_server_app/blob/main/demo/logo.png)
+
 ### 模組功能
 
 ![DEMO_1](https://github.com/weitsunglin/node_js_server_app/blob/main/demo/09.png)
