@@ -18,8 +18,9 @@
 
 ### 備註
 
-1. database 還原
+1. 資料庫還原，先搬運bak到docker內，在下指令
 
+```
 docker exec -it <container_name> /opt/mssql-tools/bin/sqlcmd \  # <container_name>: 替換為 SQL Server 容器的名稱
    -S localhost -U sa -P <YourPassword> \                        # <YourPassword>: 替換為 sa 使用者的密碼
    -Q "                                                          # -Q: 指定要執行的 T-SQL 查詢
@@ -32,3 +33,4 @@ docker exec -it <container_name> /opt/mssql-tools/bin/sqlcmd \  # <container_nam
 
    MOVE 'OriginalDBName_Log'                                     # 'OriginalDBName_Log': 備份檔案中的邏輯名稱，用於日誌檔 (.ldf)
    TO '/var/opt/mssql/data/YourDatabase_Log.ldf'"                # YourDatabase_Log.ldf: 新還原日誌檔案的目標名稱和路徑
+```
