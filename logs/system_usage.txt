@@ -1,3 +1,2379 @@
+22:08:49 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.43 MB, Heap Total 20.89 MB, Heap Used 17.88 MB, External 4.91 MB
+
+22:08:47 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.15 MB, Heap Total 20.38 MB, Heap Used 17.10 MB, External 4.40 MB
+
+22:08:46 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.11 MB, Heap Total 19.86 MB, Heap Used 16.58 MB, External 3.89 MB
+
+22:08:45 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 57.66 MB, Heap Total 19.34 MB, Heap Used 16.09 MB, External 3.89 MB
+
+22:08:44 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 55.63 MB, Heap Total 19.31 MB, Heap Used 15.03 MB, External 6.94 MB
+
+22:08:43 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 63.49 MB, Heap Total 22.44 MB, Heap Used 19.42 MB, External 6.43 MB
+
+22:08:42 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.26 MB, Heap Total 21.92 MB, Heap Used 18.68 MB, External 5.92 MB
+
+22:08:41 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.27 MB, Heap Total 21.41 MB, Heap Used 18.20 MB, External 5.41 MB
+
+22:08:40 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.21 MB, Heap Total 20.89 MB, Heap Used 17.65 MB, External 4.90 MB
+
+22:08:39 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.41 MB, Heap Total 20.38 MB, Heap Used 17.13 MB, External 4.39 MB
+
+22:08:38 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.38 MB, Heap Total 19.86 MB, Heap Used 16.81 MB, External 3.88 MB
+
+22:08:37 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 57.67 MB, Heap Total 19.34 MB, Heap Used 16.09 MB, External 3.88 MB
+
+22:08:36 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 55.64 MB, Heap Total 19.31 MB, Heap Used 15.03 MB, External 6.93 MB
+
+22:08:35 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 65.00 MB, Heap Total 22.44 MB, Heap Used 19.21 MB, External 6.42 MB
+
+22:08:34 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 63.46 MB, Heap Total 21.92 MB, Heap Used 18.89 MB, External 5.91 MB
+
+22:08:33 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.70 MB, Heap Total 21.41 MB, Heap Used 18.16 MB, External 5.40 MB
+
+22:08:32 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.66 MB, Heap Total 20.89 MB, Heap Used 17.64 MB, External 4.89 MB
+
+22:08:31 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.64 MB, Heap Total 20.38 MB, Heap Used 17.12 MB, External 4.39 MB
+
+22:08:30 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.61 MB, Heap Total 19.86 MB, Heap Used 16.60 MB, External 3.88 MB
+
+22:08:29 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 57.80 MB, Heap Total 19.34 MB, Heap Used 16.28 MB, External 3.88 MB
+
+22:08:28 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 55.60 MB, Heap Total 19.31 MB, Heap Used 15.04 MB, External 6.92 MB
+
+22:08:27 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 65.02 MB, Heap Total 22.92 MB, Heap Used 19.85 MB, External 6.41 MB
+
+22:08:26 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 63.48 MB, Heap Total 22.41 MB, Heap Used 19.34 MB, External 5.90 MB
+
+22:08:25 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.43 MB, Heap Total 21.89 MB, Heap Used 18.85 MB, External 5.40 MB
+
+22:08:24 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.41 MB, Heap Total 21.38 MB, Heap Used 18.51 MB, External 4.89 MB
+
+22:08:23 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.16 MB, Heap Total 20.87 MB, Heap Used 17.78 MB, External 4.38 MB
+
+22:08:22 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.14 MB, Heap Total 20.36 MB, Heap Used 17.26 MB, External 3.87 MB
+
+22:08:21 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.09 MB, Heap Total 19.85 MB, Heap Used 16.75 MB, External 3.37 MB
+
+22:08:20 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 57.04 MB, Heap Total 19.34 MB, Heap Used 16.26 MB, External 3.37 MB
+
+22:08:19 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 54.98 MB, Heap Total 18.31 MB, Heap Used 15.21 MB, External 6.91 MB
+
+22:08:18 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 63.39 MB, Heap Total 22.66 MB, Heap Used 19.55 MB, External 6.40 MB
+
+22:08:17 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.38 MB, Heap Total 22.14 MB, Heap Used 19.04 MB, External 5.89 MB
+
+22:08:16 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.32 MB, Heap Total 21.63 MB, Heap Used 18.53 MB, External 5.39 MB
+
+22:08:15 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.53 MB, Heap Total 21.12 MB, Heap Used 18.04 MB, External 4.88 MB
+
+22:08:14 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.51 MB, Heap Total 20.61 MB, Heap Used 17.70 MB, External 4.38 MB
+
+22:08:13 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.81 MB, Heap Total 20.10 MB, Heap Used 16.97 MB, External 3.87 MB
+
+22:08:12 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 57.77 MB, Heap Total 19.59 MB, Heap Used 16.48 MB, External 3.87 MB
+
+22:08:11 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 55.75 MB, Heap Total 18.56 MB, Heap Used 15.45 MB, External 6.89 MB
+
+22:08:10 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 64.41 MB, Heap Total 22.66 MB, Heap Used 19.35 MB, External 6.39 MB
+
+22:08:09 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 63.09 MB, Heap Total 22.14 MB, Heap Used 19.03 MB, External 5.88 MB
+
+22:08:08 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.86 MB, Heap Total 21.63 MB, Heap Used 18.31 MB, External 5.38 MB
+
+22:08:07 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.84 MB, Heap Total 21.12 MB, Heap Used 17.79 MB, External 4.87 MB
+
+22:08:06 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.82 MB, Heap Total 20.61 MB, Heap Used 17.28 MB, External 4.37 MB
+
+22:08:05 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.02 MB, Heap Total 20.10 MB, Heap Used 16.76 MB, External 3.87 MB
+
+22:08:04 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.00 MB, Heap Total 19.59 MB, Heap Used 16.45 MB, External 3.87 MB
+
+22:08:03 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 55.78 MB, Heap Total 18.56 MB, Heap Used 15.23 MB, External 7.39 MB
+
+22:08:02 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 64.34 MB, Heap Total 23.14 MB, Heap Used 20.11 MB, External 6.88 MB
+
+22:08:01 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 63.32 MB, Heap Total 22.63 MB, Heap Used 19.59 MB, External 6.38 MB
+
+22:08:00 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.30 MB, Heap Total 22.12 MB, Heap Used 19.08 MB, External 5.87 MB
+
+22:07:59 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.50 MB, Heap Total 21.61 MB, Heap Used 18.77 MB, External 5.37 MB
+
+22:07:58 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.25 MB, Heap Total 21.10 MB, Heap Used 18.04 MB, External 4.87 MB
+
+22:07:57 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.24 MB, Heap Total 20.59 MB, Heap Used 17.53 MB, External 4.36 MB
+
+22:07:56 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.81 MB, Heap Total 20.09 MB, Heap Used 17.02 MB, External 3.86 MB
+
+22:07:55 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 57.85 MB, Heap Total 19.58 MB, Heap Used 16.56 MB, External 3.86 MB
+
+22:07:54 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 56.07 MB, Heap Total 19.56 MB, Heap Used 15.71 MB, External 6.87 MB
+
+22:07:53 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 63.33 MB, Heap Total 22.63 MB, Heap Used 20.05 MB, External 6.37 MB
+
+22:07:52 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.32 MB, Heap Total 22.12 MB, Heap Used 19.54 MB, External 5.87 MB
+
+22:07:51 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.34 MB, Heap Total 21.61 MB, Heap Used 19.03 MB, External 5.36 MB
+
+22:07:50 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.30 MB, Heap Total 21.10 MB, Heap Used 18.55 MB, External 4.86 MB
+
+22:07:49 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.50 MB, Heap Total 20.59 MB, Heap Used 18.21 MB, External 4.36 MB
+
+22:07:48 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.77 MB, Heap Total 20.09 MB, Heap Used 17.46 MB, External 3.86 MB
+
+22:07:47 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 57.77 MB, Heap Total 19.58 MB, Heap Used 16.95 MB, External 3.86 MB
+
+22:07:46 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 55.80 MB, Heap Total 19.56 MB, Heap Used 15.94 MB, External 7.36 MB
+
+22:07:45 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 70.55 MB, Heap Total 28.13 MB, Heap Used 20.29 MB, External 6.85 MB
+
+22:07:44 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 69.03 MB, Heap Total 27.62 MB, Heap Used 19.98 MB, External 6.35 MB
+
+22:07:43 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 67.21 MB, Heap Total 27.11 MB, Heap Used 19.25 MB, External 5.85 MB
+
+22:07:42 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 66.14 MB, Heap Total 26.60 MB, Heap Used 18.74 MB, External 5.35 MB
+
+22:07:41 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 65.16 MB, Heap Total 26.09 MB, Heap Used 18.23 MB, External 4.85 MB
+
+22:07:40 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 64.12 MB, Heap Total 25.59 MB, Heap Used 17.75 MB, External 4.35 MB
+
+22:07:39 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 63.32 MB, Heap Total 25.08 MB, Heap Used 17.40 MB, External 3.85 MB
+
+22:07:38 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 63.60 MB, Heap Total 25.08 MB, Heap Used 17.21 MB, External 3.85 MB
+
+22:07:37 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 63.59 MB, Heap Total 25.07 MB, Heap Used 17.20 MB, External 3.85 MB
+
+22:07:36 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 63.09 MB, Heap Total 25.07 MB, Heap Used 17.20 MB, External 3.85 MB
+
+22:07:35 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 63.62 MB, Heap Total 25.07 MB, Heap Used 17.18 MB, External 3.85 MB
+
+22:07:34 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 63.81 MB, Heap Total 25.07 MB, Heap Used 17.39 MB, External 3.85 MB
+
+22:07:33 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 63.59 MB, Heap Total 25.07 MB, Heap Used 17.17 MB, External 3.85 MB
+
+22:07:32 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 63.59 MB, Heap Total 25.07 MB, Heap Used 17.13 MB, External 3.85 MB
+
+22:07:31 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 63.09 MB, Heap Total 25.07 MB, Heap Used 17.16 MB, External 3.85 MB
+
+22:07:30 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 63.63 MB, Heap Total 25.07 MB, Heap Used 17.18 MB, External 3.85 MB
+
+22:07:29 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 63.81 MB, Heap Total 25.07 MB, Heap Used 17.35 MB, External 3.85 MB
+
+22:07:28 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 63.09 MB, Heap Total 25.07 MB, Heap Used 17.12 MB, External 3.85 MB
+
+22:07:27 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 63.57 MB, Heap Total 25.07 MB, Heap Used 17.12 MB, External 3.85 MB
+
+22:07:26 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 63.07 MB, Heap Total 25.07 MB, Heap Used 17.09 MB, External 3.85 MB
+
+22:07:25 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 63.79 MB, Heap Total 25.07 MB, Heap Used 17.13 MB, External 3.85 MB
+
+22:07:24 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 64.06 MB, Heap Total 25.07 MB, Heap Used 17.31 MB, External 3.85 MB
+
+22:07:23 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 63.69 MB, Heap Total 25.07 MB, Heap Used 17.04 MB, External 3.85 MB
+
+22:07:22 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 63.19 MB, Heap Total 25.07 MB, Heap Used 17.04 MB, External 3.85 MB
+
+22:07:21 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 63.97 MB, Heap Total 25.07 MB, Heap Used 17.03 MB, External 3.85 MB
+
+22:07:20 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 63.59 MB, Heap Total 26.07 MB, Heap Used 17.05 MB, External 3.84 MB
+
+22:07:19 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 64.09 MB, Heap Total 26.07 MB, Heap Used 17.23 MB, External 3.84 MB
+
+22:07:18 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 63.87 MB, Heap Total 26.07 MB, Heap Used 17.00 MB, External 3.84 MB
+
+22:07:17 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 63.35 MB, Heap Total 26.07 MB, Heap Used 16.99 MB, External 3.84 MB
+
+22:07:16 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.29 MB, Heap Total 25.06 MB, Heap Used 15.97 MB, External 3.36 MB
+
+22:07:15 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.66 MB, Heap Total 25.07 MB, Heap Used 23.26 MB, External 3.36 MB
+
+22:07:14 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.85 MB, Heap Total 25.07 MB, Heap Used 23.44 MB, External 3.36 MB
+
+22:07:13 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.60 MB, Heap Total 25.07 MB, Heap Used 23.22 MB, External 3.36 MB
+
+22:07:12 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.64 MB, Heap Total 25.07 MB, Heap Used 23.22 MB, External 3.36 MB
+
+22:07:11 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.68 MB, Heap Total 26.06 MB, Heap Used 23.18 MB, External 3.36 MB
+
+22:07:10 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.59 MB, Heap Total 25.06 MB, Heap Used 23.23 MB, External 3.36 MB
+
+22:07:08 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.79 MB, Heap Total 25.06 MB, Heap Used 23.40 MB, External 3.36 MB
+
+22:07:07 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.56 MB, Heap Total 25.06 MB, Heap Used 23.19 MB, External 3.36 MB
+
+22:07:06 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.55 MB, Heap Total 25.06 MB, Heap Used 23.18 MB, External 3.36 MB
+
+22:07:05 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.55 MB, Heap Total 25.06 MB, Heap Used 23.15 MB, External 3.35 MB
+
+22:07:04 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.55 MB, Heap Total 25.06 MB, Heap Used 23.20 MB, External 3.35 MB
+
+22:07:03 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.74 MB, Heap Total 25.06 MB, Heap Used 23.34 MB, External 3.35 MB
+
+22:07:02 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.53 MB, Heap Total 25.06 MB, Heap Used 23.15 MB, External 3.35 MB
+
+22:07:01 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.71 MB, Heap Total 25.06 MB, Heap Used 23.12 MB, External 3.35 MB
+
+22:07:00 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.50 MB, Heap Total 25.06 MB, Heap Used 23.15 MB, External 3.35 MB
+
+22:06:59 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.50 MB, Heap Total 25.06 MB, Heap Used 23.16 MB, External 3.35 MB
+
+22:06:58 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.69 MB, Heap Total 25.06 MB, Heap Used 23.31 MB, External 3.35 MB
+
+22:06:57 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.77 MB, Heap Total 25.06 MB, Heap Used 23.12 MB, External 3.35 MB
+
+22:06:56 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.46 MB, Heap Total 25.06 MB, Heap Used 23.12 MB, External 3.35 MB
+
+22:06:55 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.63 MB, Heap Total 25.06 MB, Heap Used 23.10 MB, External 3.35 MB
+
+22:06:54 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.65 MB, Heap Total 25.06 MB, Heap Used 23.31 MB, External 3.35 MB
+
+22:06:53 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.42 MB, Heap Total 25.06 MB, Heap Used 23.09 MB, External 3.35 MB
+
+22:06:52 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.41 MB, Heap Total 25.06 MB, Heap Used 23.06 MB, External 3.35 MB
+
+22:06:51 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.41 MB, Heap Total 25.06 MB, Heap Used 23.08 MB, External 3.35 MB
+
+22:06:50 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.41 MB, Heap Total 25.06 MB, Heap Used 23.07 MB, External 3.35 MB
+
+22:06:49 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.61 MB, Heap Total 25.06 MB, Heap Used 23.24 MB, External 3.35 MB
+
+22:06:48 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.38 MB, Heap Total 25.06 MB, Heap Used 23.06 MB, External 3.35 MB
+
+22:06:47 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.37 MB, Heap Total 25.06 MB, Heap Used 23.02 MB, External 3.35 MB
+
+22:06:46 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.88 MB, Heap Total 25.06 MB, Heap Used 23.05 MB, External 3.35 MB
+
+22:06:45 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.38 MB, Heap Total 24.80 MB, Heap Used 23.07 MB, External 3.35 MB
+
+22:06:44 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.57 MB, Heap Total 24.80 MB, Heap Used 23.24 MB, External 3.35 MB
+
+22:06:43 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.35 MB, Heap Total 24.80 MB, Heap Used 23.02 MB, External 3.35 MB
+
+22:06:42 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.34 MB, Heap Total 24.80 MB, Heap Used 23.02 MB, External 3.35 MB
+
+22:06:41 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.34 MB, Heap Total 24.80 MB, Heap Used 22.99 MB, External 3.35 MB
+
+22:06:40 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.34 MB, Heap Total 24.80 MB, Heap Used 23.03 MB, External 3.35 MB
+
+22:06:39 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.53 MB, Heap Total 24.80 MB, Heap Used 23.21 MB, External 3.35 MB
+
+22:06:38 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.31 MB, Heap Total 24.80 MB, Heap Used 22.96 MB, External 3.35 MB
+
+22:06:37 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.30 MB, Heap Total 24.80 MB, Heap Used 22.99 MB, External 3.35 MB
+
+22:06:36 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.30 MB, Heap Total 24.80 MB, Heap Used 22.95 MB, External 3.35 MB
+
+22:06:35 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.30 MB, Heap Total 24.80 MB, Heap Used 23.00 MB, External 3.35 MB
+
+22:06:34 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.49 MB, Heap Total 24.80 MB, Heap Used 23.14 MB, External 3.35 MB
+
+22:06:33 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.25 MB, Heap Total 24.80 MB, Heap Used 22.96 MB, External 3.34 MB
+
+22:06:32 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.25 MB, Heap Total 24.80 MB, Heap Used 22.84 MB, External 3.34 MB
+
+22:06:31 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.25 MB, Heap Total 24.80 MB, Heap Used 22.81 MB, External 3.34 MB
+
+22:06:30 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.75 MB, Heap Total 24.80 MB, Heap Used 22.86 MB, External 3.34 MB
+
+22:06:29 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.44 MB, Heap Total 24.80 MB, Heap Used 23.00 MB, External 3.34 MB
+
+22:06:28 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.22 MB, Heap Total 24.80 MB, Heap Used 22.81 MB, External 3.34 MB
+
+22:06:27 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.22 MB, Heap Total 24.80 MB, Heap Used 22.81 MB, External 3.34 MB
+
+22:06:26 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.22 MB, Heap Total 24.80 MB, Heap Used 22.81 MB, External 3.34 MB
+
+22:06:25 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.21 MB, Heap Total 24.55 MB, Heap Used 22.82 MB, External 3.34 MB
+
+22:06:24 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.96 MB, Heap Total 24.55 MB, Heap Used 23.00 MB, External 3.34 MB
+
+22:06:23 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.18 MB, Heap Total 24.55 MB, Heap Used 22.75 MB, External 3.34 MB
+
+22:06:22 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.17 MB, Heap Total 24.55 MB, Heap Used 22.75 MB, External 3.34 MB
+
+22:06:21 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.16 MB, Heap Total 24.55 MB, Heap Used 22.77 MB, External 3.34 MB
+
+22:06:20 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.16 MB, Heap Total 24.55 MB, Heap Used 22.76 MB, External 3.34 MB
+
+22:06:19 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.34 MB, Heap Total 24.55 MB, Heap Used 22.93 MB, External 3.34 MB
+
+22:06:18 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.12 MB, Heap Total 24.55 MB, Heap Used 22.72 MB, External 3.34 MB
+
+22:06:17 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.11 MB, Heap Total 24.55 MB, Heap Used 22.71 MB, External 3.34 MB
+
+22:06:16 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.11 MB, Heap Total 24.55 MB, Heap Used 22.74 MB, External 3.34 MB
+
+22:06:15 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.11 MB, Heap Total 24.55 MB, Heap Used 22.76 MB, External 3.34 MB
+
+22:06:14 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.30 MB, Heap Total 24.55 MB, Heap Used 22.93 MB, External 3.34 MB
+
+22:06:13 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.07 MB, Heap Total 24.55 MB, Heap Used 22.71 MB, External 3.34 MB
+
+22:06:12 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.07 MB, Heap Total 24.55 MB, Heap Used 22.71 MB, External 3.34 MB
+
+22:06:11 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.06 MB, Heap Total 24.55 MB, Heap Used 22.70 MB, External 3.34 MB
+
+22:06:10 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.07 MB, Heap Total 24.55 MB, Heap Used 22.72 MB, External 3.34 MB
+
+22:06:09 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.75 MB, Heap Total 24.55 MB, Heap Used 22.90 MB, External 3.34 MB
+
+22:06:08 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.02 MB, Heap Total 24.55 MB, Heap Used 22.68 MB, External 3.34 MB
+
+22:06:07 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.04 MB, Heap Total 24.55 MB, Heap Used 22.65 MB, External 3.34 MB
+
+22:06:06 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.11 MB, Heap Total 24.55 MB, Heap Used 22.64 MB, External 3.34 MB
+
+22:06:05 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.03 MB, Heap Total 24.55 MB, Heap Used 22.69 MB, External 3.34 MB
+
+22:06:04 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.23 MB, Heap Total 24.55 MB, Heap Used 22.86 MB, External 3.34 MB
+
+22:06:03 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.00 MB, Heap Total 24.55 MB, Heap Used 22.64 MB, External 3.34 MB
+
+22:06:02 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.00 MB, Heap Total 24.55 MB, Heap Used 22.64 MB, External 3.34 MB
+
+22:06:01 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.23 MB, Heap Total 24.55 MB, Heap Used 22.61 MB, External 3.34 MB
+
+22:06:00 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.27 MB, Heap Total 25.55 MB, Heap Used 22.66 MB, External 3.33 MB
+
+22:05:59 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.30 MB, Heap Total 24.55 MB, Heap Used 22.83 MB, External 3.33 MB
+
+22:05:58 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.95 MB, Heap Total 24.55 MB, Heap Used 22.61 MB, External 3.33 MB
+
+22:05:57 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.95 MB, Heap Total 24.55 MB, Heap Used 22.61 MB, External 3.33 MB
+
+22:05:56 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.93 MB, Heap Total 24.29 MB, Heap Used 22.58 MB, External 3.33 MB
+
+22:05:55 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.13 MB, Heap Total 24.29 MB, Heap Used 22.62 MB, External 3.33 MB
+
+22:05:54 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.02 MB, Heap Total 24.29 MB, Heap Used 22.80 MB, External 3.33 MB
+
+22:05:53 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.79 MB, Heap Total 24.29 MB, Heap Used 22.58 MB, External 3.33 MB
+
+22:05:52 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.79 MB, Heap Total 24.29 MB, Heap Used 22.57 MB, External 3.33 MB
+
+22:05:51 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.96 MB, Heap Total 24.29 MB, Heap Used 22.54 MB, External 3.33 MB
+
+22:05:50 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.88 MB, Heap Total 24.29 MB, Heap Used 22.56 MB, External 3.33 MB
+
+22:05:49 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.07 MB, Heap Total 24.29 MB, Heap Used 22.76 MB, External 3.33 MB
+
+22:05:48 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.86 MB, Heap Total 24.29 MB, Heap Used 22.54 MB, External 3.33 MB
+
+22:05:47 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.85 MB, Heap Total 24.29 MB, Heap Used 22.54 MB, External 3.33 MB
+
+22:05:46 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.86 MB, Heap Total 24.29 MB, Heap Used 22.54 MB, External 3.33 MB
+
+22:05:45 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.85 MB, Heap Total 24.29 MB, Heap Used 22.56 MB, External 3.33 MB
+
+22:05:44 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.05 MB, Heap Total 24.29 MB, Heap Used 22.73 MB, External 3.33 MB
+
+22:05:43 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.82 MB, Heap Total 24.29 MB, Heap Used 22.51 MB, External 3.33 MB
+
+22:05:42 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.78 MB, Heap Total 24.29 MB, Heap Used 22.51 MB, External 3.33 MB
+
+22:05:41 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.81 MB, Heap Total 24.29 MB, Heap Used 22.51 MB, External 3.33 MB
+
+22:05:40 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.80 MB, Heap Total 24.29 MB, Heap Used 22.52 MB, External 3.33 MB
+
+22:05:39 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.95 MB, Heap Total 24.29 MB, Heap Used 22.70 MB, External 3.33 MB
+
+22:05:38 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.77 MB, Heap Total 24.29 MB, Heap Used 22.48 MB, External 3.33 MB
+
+22:05:37 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.72 MB, Heap Total 24.29 MB, Heap Used 22.45 MB, External 3.33 MB
+
+22:05:36 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.75 MB, Heap Total 24.29 MB, Heap Used 22.44 MB, External 3.33 MB
+
+22:05:35 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.72 MB, Heap Total 24.29 MB, Heap Used 22.46 MB, External 3.33 MB
+
+22:05:34 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.94 MB, Heap Total 24.29 MB, Heap Used 22.63 MB, External 3.33 MB
+
+22:05:33 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.67 MB, Heap Total 24.29 MB, Heap Used 22.44 MB, External 3.33 MB
+
+22:05:32 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.72 MB, Heap Total 24.29 MB, Heap Used 22.44 MB, External 3.33 MB
+
+22:05:31 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.73 MB, Heap Total 24.29 MB, Heap Used 22.41 MB, External 3.33 MB
+
+22:05:30 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.24 MB, Heap Total 24.29 MB, Heap Used 22.46 MB, External 3.33 MB
+
+22:05:29 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.94 MB, Heap Total 24.28 MB, Heap Used 22.63 MB, External 3.33 MB
+
+22:05:27 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.70 MB, Heap Total 24.28 MB, Heap Used 22.41 MB, External 3.32 MB
+
+22:05:26 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.18 MB, Heap Total 24.28 MB, Heap Used 22.41 MB, External 3.32 MB
+
+22:05:25 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.70 MB, Heap Total 24.28 MB, Heap Used 22.38 MB, External 3.32 MB
+
+22:05:24 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.70 MB, Heap Total 24.28 MB, Heap Used 22.39 MB, External 3.32 MB
+
+22:05:23 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.00 MB, Heap Total 24.28 MB, Heap Used 22.57 MB, External 3.32 MB
+
+22:05:22 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.57 MB, Heap Total 24.28 MB, Heap Used 22.38 MB, External 3.32 MB
+
+22:05:21 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.58 MB, Heap Total 24.28 MB, Heap Used 22.37 MB, External 3.32 MB
+
+22:05:20 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.55 MB, Heap Total 24.28 MB, Heap Used 22.34 MB, External 3.32 MB
+
+22:05:19 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.55 MB, Heap Total 24.28 MB, Heap Used 22.39 MB, External 3.32 MB
+
+22:05:18 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.75 MB, Heap Total 24.28 MB, Heap Used 22.53 MB, External 3.32 MB
+
+22:05:17 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.52 MB, Heap Total 24.28 MB, Heap Used 22.34 MB, External 3.32 MB
+
+22:05:16 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.52 MB, Heap Total 24.28 MB, Heap Used 22.31 MB, External 3.32 MB
+
+22:05:15 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.52 MB, Heap Total 24.28 MB, Heap Used 22.36 MB, External 3.32 MB
+
+22:05:14 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.71 MB, Heap Total 24.28 MB, Heap Used 22.54 MB, External 3.32 MB
+
+22:05:13 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.48 MB, Heap Total 24.28 MB, Heap Used 22.29 MB, External 3.32 MB
+
+22:05:12 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.48 MB, Heap Total 24.28 MB, Heap Used 22.28 MB, External 3.32 MB
+
+22:05:11 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.48 MB, Heap Total 24.28 MB, Heap Used 22.31 MB, External 3.32 MB
+
+22:05:10 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.48 MB, Heap Total 24.03 MB, Heap Used 22.33 MB, External 3.32 MB
+
+22:05:09 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.69 MB, Heap Total 24.03 MB, Heap Used 22.50 MB, External 3.32 MB
+
+22:05:08 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.46 MB, Heap Total 24.03 MB, Heap Used 22.28 MB, External 3.32 MB
+
+22:05:07 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.45 MB, Heap Total 24.03 MB, Heap Used 22.28 MB, External 3.32 MB
+
+22:05:06 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.45 MB, Heap Total 24.03 MB, Heap Used 22.28 MB, External 3.32 MB
+
+22:05:05 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.44 MB, Heap Total 24.03 MB, Heap Used 22.29 MB, External 3.32 MB
+
+22:05:04 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 62.11 MB, Heap Total 24.03 MB, Heap Used 22.47 MB, External 3.32 MB
+
+22:05:03 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.38 MB, Heap Total 24.02 MB, Heap Used 22.25 MB, External 3.32 MB
+
+22:05:02 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.36 MB, Heap Total 24.02 MB, Heap Used 22.24 MB, External 3.32 MB
+
+22:05:01 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.36 MB, Heap Total 24.02 MB, Heap Used 22.24 MB, External 3.32 MB
+
+22:05:00 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.39 MB, Heap Total 24.02 MB, Heap Used 22.26 MB, External 3.32 MB
+
+22:04:59 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.59 MB, Heap Total 24.02 MB, Heap Used 22.44 MB, External 3.32 MB
+
+22:04:58 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.36 MB, Heap Total 24.02 MB, Heap Used 22.21 MB, External 3.32 MB
+
+22:04:57 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.36 MB, Heap Total 24.02 MB, Heap Used 22.18 MB, External 3.32 MB
+
+22:04:56 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.35 MB, Heap Total 24.02 MB, Heap Used 22.21 MB, External 3.32 MB
+
+22:04:55 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.35 MB, Heap Total 24.02 MB, Heap Used 22.23 MB, External 3.31 MB
+
+22:04:54 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.55 MB, Heap Total 24.02 MB, Heap Used 22.40 MB, External 3.31 MB
+
+22:04:53 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.31 MB, Heap Total 24.02 MB, Heap Used 22.18 MB, External 3.31 MB
+
+22:04:52 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.31 MB, Heap Total 24.02 MB, Heap Used 22.18 MB, External 3.31 MB
+
+22:04:51 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.30 MB, Heap Total 24.02 MB, Heap Used 22.17 MB, External 3.31 MB
+
+22:04:50 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.31 MB, Heap Total 24.02 MB, Heap Used 22.19 MB, External 3.31 MB
+
+22:04:49 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.50 MB, Heap Total 24.02 MB, Heap Used 22.34 MB, External 3.31 MB
+
+22:04:48 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.28 MB, Heap Total 24.02 MB, Heap Used 22.15 MB, External 3.31 MB
+
+22:04:47 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.34 MB, Heap Total 25.02 MB, Heap Used 22.14 MB, External 3.31 MB
+
+22:04:46 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.27 MB, Heap Total 24.02 MB, Heap Used 22.14 MB, External 3.31 MB
+
+22:04:45 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.27 MB, Heap Total 24.02 MB, Heap Used 22.16 MB, External 3.31 MB
+
+22:04:44 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.94 MB, Heap Total 24.02 MB, Heap Used 22.34 MB, External 3.31 MB
+
+22:04:43 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.24 MB, Heap Total 24.02 MB, Heap Used 22.11 MB, External 3.31 MB
+
+22:04:42 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.71 MB, Heap Total 24.02 MB, Heap Used 22.11 MB, External 3.31 MB
+
+22:04:41 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.23 MB, Heap Total 24.02 MB, Heap Used 22.11 MB, External 3.31 MB
+
+22:04:40 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.22 MB, Heap Total 24.02 MB, Heap Used 22.13 MB, External 3.31 MB
+
+22:04:39 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.41 MB, Heap Total 24.02 MB, Heap Used 22.27 MB, External 3.31 MB
+
+22:04:38 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.18 MB, Heap Total 24.02 MB, Heap Used 22.08 MB, External 3.31 MB
+
+22:04:37 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.18 MB, Heap Total 24.02 MB, Heap Used 22.05 MB, External 3.31 MB
+
+22:04:36 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.17 MB, Heap Total 24.02 MB, Heap Used 22.05 MB, External 3.31 MB
+
+22:04:35 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.17 MB, Heap Total 24.02 MB, Heap Used 22.09 MB, External 3.31 MB
+
+22:04:34 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.37 MB, Heap Total 24.02 MB, Heap Used 22.27 MB, External 3.31 MB
+
+22:04:33 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.38 MB, Heap Total 24.02 MB, Heap Used 22.05 MB, External 3.31 MB
+
+22:04:32 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.24 MB, Heap Total 24.02 MB, Heap Used 22.05 MB, External 3.31 MB
+
+22:04:31 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.25 MB, Heap Total 24.02 MB, Heap Used 22.04 MB, External 3.31 MB
+
+22:04:30 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.25 MB, Heap Total 23.77 MB, Heap Used 22.06 MB, External 3.31 MB
+
+22:04:29 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.44 MB, Heap Total 23.77 MB, Heap Used 22.23 MB, External 3.31 MB
+
+22:04:28 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.21 MB, Heap Total 23.77 MB, Heap Used 21.99 MB, External 3.31 MB
+
+22:04:27 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.21 MB, Heap Total 23.77 MB, Heap Used 22.01 MB, External 3.31 MB
+
+22:04:26 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.21 MB, Heap Total 23.77 MB, Heap Used 22.01 MB, External 3.31 MB
+
+22:04:25 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.20 MB, Heap Total 23.77 MB, Heap Used 22.03 MB, External 3.31 MB
+
+22:04:24 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.41 MB, Heap Total 23.77 MB, Heap Used 22.20 MB, External 3.31 MB
+
+22:04:23 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.17 MB, Heap Total 23.77 MB, Heap Used 21.98 MB, External 3.30 MB
+
+22:04:22 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.17 MB, Heap Total 23.77 MB, Heap Used 21.95 MB, External 3.30 MB
+
+22:04:21 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.16 MB, Heap Total 23.77 MB, Heap Used 21.98 MB, External 3.30 MB
+
+22:04:20 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.17 MB, Heap Total 23.77 MB, Heap Used 21.99 MB, External 3.30 MB
+
+22:04:19 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.34 MB, Heap Total 23.77 MB, Heap Used 22.17 MB, External 3.30 MB
+
+22:04:18 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.12 MB, Heap Total 23.77 MB, Heap Used 21.92 MB, External 3.30 MB
+
+22:04:17 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.11 MB, Heap Total 23.77 MB, Heap Used 21.95 MB, External 3.30 MB
+
+22:04:16 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.11 MB, Heap Total 23.77 MB, Heap Used 21.94 MB, External 3.30 MB
+
+22:04:15 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.11 MB, Heap Total 23.77 MB, Heap Used 21.96 MB, External 3.30 MB
+
+22:04:14 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.30 MB, Heap Total 23.76 MB, Heap Used 22.13 MB, External 3.30 MB
+
+22:04:13 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.05 MB, Heap Total 23.76 MB, Heap Used 21.92 MB, External 3.30 MB
+
+22:04:12 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.05 MB, Heap Total 23.76 MB, Heap Used 21.91 MB, External 3.30 MB
+
+22:04:11 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.05 MB, Heap Total 23.76 MB, Heap Used 21.91 MB, External 3.30 MB
+
+22:04:10 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.06 MB, Heap Total 23.76 MB, Heap Used 21.93 MB, External 3.30 MB
+
+22:04:09 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.26 MB, Heap Total 23.76 MB, Heap Used 22.07 MB, External 3.30 MB
+
+22:04:08 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.03 MB, Heap Total 23.76 MB, Heap Used 21.85 MB, External 3.30 MB
+
+22:04:07 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.02 MB, Heap Total 23.76 MB, Heap Used 21.85 MB, External 3.30 MB
+
+22:04:06 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.02 MB, Heap Total 23.76 MB, Heap Used 21.85 MB, External 3.30 MB
+
+22:04:05 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.01 MB, Heap Total 23.76 MB, Heap Used 21.86 MB, External 3.30 MB
+
+22:04:04 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.21 MB, Heap Total 23.76 MB, Heap Used 22.07 MB, External 3.30 MB
+
+22:04:03 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.98 MB, Heap Total 23.76 MB, Heap Used 21.82 MB, External 3.30 MB
+
+22:04:02 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.96 MB, Heap Total 23.76 MB, Heap Used 21.85 MB, External 3.30 MB
+
+22:04:01 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.95 MB, Heap Total 23.76 MB, Heap Used 21.84 MB, External 3.30 MB
+
+22:04:00 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.95 MB, Heap Total 23.51 MB, Heap Used 21.83 MB, External 3.30 MB
+
+22:03:59 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.14 MB, Heap Total 23.51 MB, Heap Used 22.03 MB, External 3.30 MB
+
+22:03:58 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.92 MB, Heap Total 23.51 MB, Heap Used 21.79 MB, External 3.30 MB
+
+22:03:57 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.91 MB, Heap Total 23.51 MB, Heap Used 21.81 MB, External 3.30 MB
+
+22:03:56 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.91 MB, Heap Total 23.51 MB, Heap Used 21.78 MB, External 3.30 MB
+
+22:03:55 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.91 MB, Heap Total 23.51 MB, Heap Used 21.83 MB, External 3.30 MB
+
+22:03:54 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.11 MB, Heap Total 23.51 MB, Heap Used 22.00 MB, External 3.30 MB
+
+22:03:53 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.88 MB, Heap Total 23.51 MB, Heap Used 21.78 MB, External 3.30 MB
+
+22:03:52 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.88 MB, Heap Total 23.51 MB, Heap Used 21.78 MB, External 3.30 MB
+
+22:03:51 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.88 MB, Heap Total 23.51 MB, Heap Used 21.75 MB, External 3.29 MB
+
+22:03:50 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.89 MB, Heap Total 23.51 MB, Heap Used 21.79 MB, External 3.29 MB
+
+22:03:48 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.08 MB, Heap Total 23.50 MB, Heap Used 21.97 MB, External 3.29 MB
+
+22:03:47 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.85 MB, Heap Total 23.50 MB, Heap Used 21.75 MB, External 3.29 MB
+
+22:03:46 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.85 MB, Heap Total 23.50 MB, Heap Used 21.52 MB, External 3.29 MB
+
+22:03:45 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.85 MB, Heap Total 23.50 MB, Heap Used 21.49 MB, External 3.29 MB
+
+22:03:44 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.84 MB, Heap Total 23.25 MB, Heap Used 21.53 MB, External 3.29 MB
+
+22:03:43 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 61.14 MB, Heap Total 23.25 MB, Heap Used 21.68 MB, External 3.29 MB
+
+22:03:42 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.77 MB, Heap Total 23.25 MB, Heap Used 21.49 MB, External 3.29 MB
+
+22:03:41 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.97 MB, Heap Total 23.25 MB, Heap Used 21.48 MB, External 3.29 MB
+
+22:03:40 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.69 MB, Heap Total 23.25 MB, Heap Used 21.45 MB, External 3.29 MB
+
+22:03:39 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.66 MB, Heap Total 23.25 MB, Heap Used 21.50 MB, External 3.29 MB
+
+22:03:38 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.91 MB, Heap Total 23.25 MB, Heap Used 21.67 MB, External 3.29 MB
+
+22:03:37 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.74 MB, Heap Total 23.25 MB, Heap Used 21.45 MB, External 3.29 MB
+
+22:03:36 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.77 MB, Heap Total 24.25 MB, Heap Used 21.42 MB, External 3.29 MB
+
+22:03:35 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.68 MB, Heap Total 23.25 MB, Heap Used 21.47 MB, External 3.29 MB
+
+22:03:34 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.88 MB, Heap Total 23.25 MB, Heap Used 21.65 MB, External 3.29 MB
+
+22:03:33 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.64 MB, Heap Total 23.25 MB, Heap Used 21.40 MB, External 3.29 MB
+
+22:03:32 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.63 MB, Heap Total 23.25 MB, Heap Used 21.39 MB, External 3.29 MB
+
+22:03:31 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.63 MB, Heap Total 23.25 MB, Heap Used 21.42 MB, External 3.29 MB
+
+22:03:30 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.64 MB, Heap Total 23.25 MB, Heap Used 21.41 MB, External 3.29 MB
+
+22:03:29 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.84 MB, Heap Total 23.25 MB, Heap Used 21.61 MB, External 3.29 MB
+
+22:03:28 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.61 MB, Heap Total 23.25 MB, Heap Used 21.39 MB, External 3.29 MB
+
+22:03:27 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.61 MB, Heap Total 23.25 MB, Heap Used 21.39 MB, External 3.29 MB
+
+22:03:26 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.61 MB, Heap Total 23.25 MB, Heap Used 21.38 MB, External 3.29 MB
+
+22:03:25 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.58 MB, Heap Total 23.25 MB, Heap Used 21.40 MB, External 3.29 MB
+
+22:03:24 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.82 MB, Heap Total 23.25 MB, Heap Used 21.55 MB, External 3.29 MB
+
+22:03:23 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.58 MB, Heap Total 23.25 MB, Heap Used 21.36 MB, External 3.29 MB
+
+22:03:22 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.57 MB, Heap Total 23.24 MB, Heap Used 21.35 MB, External 3.29 MB
+
+22:03:21 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.57 MB, Heap Total 23.24 MB, Heap Used 21.35 MB, External 3.29 MB
+
+22:03:20 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.56 MB, Heap Total 23.24 MB, Heap Used 21.34 MB, External 3.29 MB
+
+22:03:19 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.80 MB, Heap Total 23.24 MB, Heap Used 21.52 MB, External 3.29 MB
+
+22:03:18 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.18 MB, Heap Total 23.24 MB, Heap Used 21.27 MB, External 3.28 MB
+
+22:03:17 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.18 MB, Heap Total 23.24 MB, Heap Used 21.29 MB, External 3.28 MB
+
+22:03:16 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.17 MB, Heap Total 23.24 MB, Heap Used 21.29 MB, External 3.28 MB
+
+22:03:15 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.17 MB, Heap Total 23.24 MB, Heap Used 21.31 MB, External 3.28 MB
+
+22:03:14 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.38 MB, Heap Total 23.24 MB, Heap Used 21.48 MB, External 3.28 MB
+
+22:03:13 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.15 MB, Heap Total 23.24 MB, Heap Used 21.26 MB, External 3.28 MB
+
+22:03:12 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.14 MB, Heap Total 23.24 MB, Heap Used 21.26 MB, External 3.28 MB
+
+22:03:11 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.15 MB, Heap Total 23.24 MB, Heap Used 21.26 MB, External 3.28 MB
+
+22:03:10 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.14 MB, Heap Total 22.99 MB, Heap Used 21.27 MB, External 3.28 MB
+
+22:03:09 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.34 MB, Heap Total 22.99 MB, Heap Used 21.46 MB, External 3.28 MB
+
+22:03:08 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.11 MB, Heap Total 22.99 MB, Heap Used 21.23 MB, External 3.28 MB
+
+22:03:07 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.11 MB, Heap Total 22.99 MB, Heap Used 21.22 MB, External 3.28 MB
+
+22:03:06 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.10 MB, Heap Total 22.99 MB, Heap Used 21.22 MB, External 3.28 MB
+
+22:03:05 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.11 MB, Heap Total 22.99 MB, Heap Used 21.24 MB, External 3.28 MB
+
+22:03:04 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.29 MB, Heap Total 22.99 MB, Heap Used 21.38 MB, External 3.28 MB
+
+22:03:03 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.06 MB, Heap Total 22.99 MB, Heap Used 21.19 MB, External 3.28 MB
+
+22:03:02 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.05 MB, Heap Total 22.99 MB, Heap Used 21.19 MB, External 3.28 MB
+
+22:03:01 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.05 MB, Heap Total 22.99 MB, Heap Used 21.19 MB, External 3.28 MB
+
+22:03:00 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.05 MB, Heap Total 22.99 MB, Heap Used 21.20 MB, External 3.28 MB
+
+22:02:59 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.25 MB, Heap Total 22.99 MB, Heap Used 21.35 MB, External 3.28 MB
+
+22:02:58 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.02 MB, Heap Total 22.99 MB, Heap Used 21.16 MB, External 3.28 MB
+
+22:02:57 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.01 MB, Heap Total 22.98 MB, Heap Used 21.15 MB, External 3.28 MB
+
+22:02:56 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.00 MB, Heap Total 22.98 MB, Heap Used 21.15 MB, External 3.28 MB
+
+22:02:55 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.01 MB, Heap Total 22.98 MB, Heap Used 21.17 MB, External 3.28 MB
+
+22:02:54 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.21 MB, Heap Total 22.98 MB, Heap Used 21.35 MB, External 3.28 MB
+
+22:02:53 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.97 MB, Heap Total 22.98 MB, Heap Used 21.12 MB, External 3.28 MB
+
+22:02:52 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.96 MB, Heap Total 22.98 MB, Heap Used 21.12 MB, External 3.28 MB
+
+22:02:51 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.97 MB, Heap Total 22.98 MB, Heap Used 21.12 MB, External 3.28 MB
+
+22:02:50 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.97 MB, Heap Total 22.98 MB, Heap Used 21.14 MB, External 3.28 MB
+
+22:02:49 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.17 MB, Heap Total 22.98 MB, Heap Used 21.31 MB, External 3.28 MB
+
+22:02:48 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.93 MB, Heap Total 22.98 MB, Heap Used 21.09 MB, External 3.28 MB
+
+22:02:47 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.93 MB, Heap Total 22.98 MB, Heap Used 21.09 MB, External 3.28 MB
+
+22:02:46 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.93 MB, Heap Total 22.98 MB, Heap Used 21.06 MB, External 3.28 MB
+
+22:02:45 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.91 MB, Heap Total 22.98 MB, Heap Used 21.10 MB, External 3.27 MB
+
+22:02:44 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.23 MB, Heap Total 22.98 MB, Heap Used 21.25 MB, External 3.27 MB
+
+22:02:43 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.88 MB, Heap Total 22.98 MB, Heap Used 21.06 MB, External 3.27 MB
+
+22:02:42 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.87 MB, Heap Total 22.98 MB, Heap Used 21.05 MB, External 3.27 MB
+
+22:02:41 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.86 MB, Heap Total 22.98 MB, Heap Used 21.05 MB, External 3.27 MB
+
+22:02:40 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.86 MB, Heap Total 22.98 MB, Heap Used 21.04 MB, External 3.27 MB
+
+22:02:39 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.06 MB, Heap Total 22.98 MB, Heap Used 21.22 MB, External 3.27 MB
+
+22:02:38 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.83 MB, Heap Total 22.98 MB, Heap Used 21.03 MB, External 3.27 MB
+
+22:02:37 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.82 MB, Heap Total 22.98 MB, Heap Used 21.02 MB, External 3.27 MB
+
+22:02:36 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.82 MB, Heap Total 22.98 MB, Heap Used 21.02 MB, External 3.27 MB
+
+22:02:35 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.81 MB, Heap Total 22.73 MB, Heap Used 21.01 MB, External 3.27 MB
+
+22:02:34 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.02 MB, Heap Total 22.73 MB, Heap Used 21.21 MB, External 3.27 MB
+
+22:02:33 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.78 MB, Heap Total 22.73 MB, Heap Used 20.96 MB, External 3.27 MB
+
+22:02:32 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.77 MB, Heap Total 22.73 MB, Heap Used 20.99 MB, External 3.27 MB
+
+22:02:31 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.77 MB, Heap Total 22.73 MB, Heap Used 20.99 MB, External 3.27 MB
+
+22:02:30 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.76 MB, Heap Total 22.73 MB, Heap Used 20.97 MB, External 3.27 MB
+
+22:02:29 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.96 MB, Heap Total 22.73 MB, Heap Used 21.18 MB, External 3.27 MB
+
+22:02:28 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.73 MB, Heap Total 22.73 MB, Heap Used 20.96 MB, External 3.27 MB
+
+22:02:27 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.73 MB, Heap Total 22.73 MB, Heap Used 20.96 MB, External 3.27 MB
+
+22:02:26 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.97 MB, Heap Total 22.73 MB, Heap Used 20.92 MB, External 3.27 MB
+
+22:02:25 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 60.01 MB, Heap Total 23.73 MB, Heap Used 20.97 MB, External 3.27 MB
+
+22:02:24 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.93 MB, Heap Total 22.73 MB, Heap Used 21.15 MB, External 3.27 MB
+
+22:02:23 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.70 MB, Heap Total 22.73 MB, Heap Used 20.93 MB, External 3.27 MB
+
+22:02:22 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.69 MB, Heap Total 22.73 MB, Heap Used 20.92 MB, External 3.27 MB
+
+22:02:21 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.70 MB, Heap Total 22.73 MB, Heap Used 20.92 MB, External 3.27 MB
+
+22:02:20 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.68 MB, Heap Total 22.73 MB, Heap Used 20.91 MB, External 3.27 MB
+
+22:02:19 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.88 MB, Heap Total 22.73 MB, Heap Used 21.11 MB, External 3.27 MB
+
+22:02:18 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.64 MB, Heap Total 22.73 MB, Heap Used 20.89 MB, External 3.27 MB
+
+22:02:17 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.64 MB, Heap Total 22.73 MB, Heap Used 20.86 MB, External 3.27 MB
+
+22:02:16 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.64 MB, Heap Total 22.73 MB, Heap Used 20.89 MB, External 3.27 MB
+
+22:02:15 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.64 MB, Heap Total 22.73 MB, Heap Used 20.90 MB, External 3.27 MB
+
+22:02:14 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.84 MB, Heap Total 22.73 MB, Heap Used 21.08 MB, External 3.27 MB
+
+22:02:13 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.60 MB, Heap Total 22.73 MB, Heap Used 20.86 MB, External 3.26 MB
+
+22:02:12 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.59 MB, Heap Total 22.73 MB, Heap Used 20.83 MB, External 3.26 MB
+
+22:02:10 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.61 MB, Heap Total 22.73 MB, Heap Used 20.82 MB, External 3.26 MB
+
+22:02:09 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.60 MB, Heap Total 22.73 MB, Heap Used 20.87 MB, External 3.26 MB
+
+22:02:08 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.80 MB, Heap Total 22.73 MB, Heap Used 21.05 MB, External 3.26 MB
+
+22:02:07 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.58 MB, Heap Total 22.73 MB, Heap Used 20.80 MB, External 3.26 MB
+
+22:02:06 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.57 MB, Heap Total 22.72 MB, Heap Used 20.79 MB, External 3.26 MB
+
+22:02:05 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.56 MB, Heap Total 22.72 MB, Heap Used 20.79 MB, External 3.26 MB
+
+22:02:04 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.56 MB, Heap Total 22.72 MB, Heap Used 20.81 MB, External 3.26 MB
+
+22:02:03 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.76 MB, Heap Total 22.72 MB, Heap Used 21.02 MB, External 3.26 MB
+
+22:02:02 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.54 MB, Heap Total 22.72 MB, Heap Used 20.79 MB, External 3.26 MB
+
+22:02:01 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.52 MB, Heap Total 22.72 MB, Heap Used 20.79 MB, External 3.26 MB
+
+22:02:00 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.51 MB, Heap Total 22.72 MB, Heap Used 20.76 MB, External 3.26 MB
+
+22:01:59 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.51 MB, Heap Total 22.72 MB, Heap Used 20.77 MB, External 3.26 MB
+
+22:01:58 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.71 MB, Heap Total 22.72 MB, Heap Used 20.99 MB, External 3.26 MB
+
+22:01:57 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.48 MB, Heap Total 22.72 MB, Heap Used 20.73 MB, External 3.26 MB
+
+22:01:56 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.48 MB, Heap Total 22.72 MB, Heap Used 20.76 MB, External 3.26 MB
+
+22:01:55 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.47 MB, Heap Total 22.72 MB, Heap Used 20.75 MB, External 3.26 MB
+
+22:01:54 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.67 MB, Heap Total 22.72 MB, Heap Used 20.92 MB, External 3.26 MB
+
+22:01:53 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.44 MB, Heap Total 22.72 MB, Heap Used 20.70 MB, External 3.26 MB
+
+22:01:52 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.44 MB, Heap Total 22.72 MB, Heap Used 20.73 MB, External 3.26 MB
+
+22:01:51 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.43 MB, Heap Total 22.72 MB, Heap Used 20.72 MB, External 3.26 MB
+
+22:01:50 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.44 MB, Heap Total 22.72 MB, Heap Used 20.74 MB, External 3.26 MB
+
+22:01:49 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.63 MB, Heap Total 22.72 MB, Heap Used 20.92 MB, External 3.26 MB
+
+22:01:48 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.41 MB, Heap Total 22.72 MB, Heap Used 20.70 MB, External 3.26 MB
+
+22:01:47 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.41 MB, Heap Total 22.72 MB, Heap Used 20.69 MB, External 3.26 MB
+
+22:01:46 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.38 MB, Heap Total 22.72 MB, Heap Used 20.69 MB, External 3.26 MB
+
+22:01:45 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.35 MB, Heap Total 22.72 MB, Heap Used 20.71 MB, External 3.26 MB
+
+22:01:44 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.60 MB, Heap Total 22.72 MB, Heap Used 20.85 MB, External 3.26 MB
+
+22:01:43 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.37 MB, Heap Total 22.72 MB, Heap Used 20.66 MB, External 3.26 MB
+
+22:01:42 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.37 MB, Heap Total 22.72 MB, Heap Used 20.63 MB, External 3.26 MB
+
+22:01:41 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.37 MB, Heap Total 22.71 MB, Heap Used 20.66 MB, External 3.26 MB
+
+22:01:40 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.34 MB, Heap Total 22.21 MB, Heap Used 20.67 MB, External 3.25 MB
+
+22:01:39 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.54 MB, Heap Total 22.21 MB, Heap Used 20.67 MB, External 3.25 MB
+
+22:01:38 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.31 MB, Heap Total 22.21 MB, Heap Used 20.45 MB, External 3.25 MB
+
+22:01:37 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.31 MB, Heap Total 22.21 MB, Heap Used 20.45 MB, External 3.25 MB
+
+22:01:36 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.30 MB, Heap Total 22.21 MB, Heap Used 20.42 MB, External 3.25 MB
+
+22:01:35 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.30 MB, Heap Total 22.21 MB, Heap Used 20.43 MB, External 3.25 MB
+
+22:01:34 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.51 MB, Heap Total 22.21 MB, Heap Used 20.64 MB, External 3.25 MB
+
+22:01:33 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.27 MB, Heap Total 22.21 MB, Heap Used 20.42 MB, External 3.25 MB
+
+22:01:32 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.27 MB, Heap Total 22.21 MB, Heap Used 20.42 MB, External 3.25 MB
+
+22:01:31 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.27 MB, Heap Total 22.21 MB, Heap Used 20.41 MB, External 3.25 MB
+
+22:01:30 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.27 MB, Heap Total 22.21 MB, Heap Used 20.40 MB, External 3.25 MB
+
+22:01:29 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.46 MB, Heap Total 22.21 MB, Heap Used 20.58 MB, External 3.25 MB
+
+22:01:28 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.23 MB, Heap Total 22.21 MB, Heap Used 20.39 MB, External 3.25 MB
+
+22:01:27 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.23 MB, Heap Total 22.21 MB, Heap Used 20.38 MB, External 3.25 MB
+
+22:01:26 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.23 MB, Heap Total 22.21 MB, Heap Used 20.38 MB, External 3.25 MB
+
+22:01:25 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.22 MB, Heap Total 22.21 MB, Heap Used 20.40 MB, External 3.25 MB
+
+22:01:24 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.43 MB, Heap Total 22.21 MB, Heap Used 20.57 MB, External 3.25 MB
+
+22:01:23 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.20 MB, Heap Total 22.21 MB, Heap Used 20.35 MB, External 3.25 MB
+
+22:01:22 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.20 MB, Heap Total 22.21 MB, Heap Used 20.32 MB, External 3.25 MB
+
+22:01:21 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.18 MB, Heap Total 22.21 MB, Heap Used 20.32 MB, External 3.25 MB
+
+22:01:20 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.19 MB, Heap Total 22.21 MB, Heap Used 20.36 MB, External 3.25 MB
+
+22:01:19 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.38 MB, Heap Total 22.21 MB, Heap Used 20.54 MB, External 3.25 MB
+
+22:01:18 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.16 MB, Heap Total 22.21 MB, Heap Used 20.32 MB, External 3.25 MB
+
+22:01:17 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.16 MB, Heap Total 22.21 MB, Heap Used 20.32 MB, External 3.25 MB
+
+22:01:16 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.15 MB, Heap Total 22.21 MB, Heap Used 20.31 MB, External 3.25 MB
+
+22:01:15 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.14 MB, Heap Total 22.20 MB, Heap Used 20.30 MB, External 3.25 MB
+
+22:01:14 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.34 MB, Heap Total 22.20 MB, Heap Used 20.51 MB, External 3.25 MB
+
+22:01:13 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.11 MB, Heap Total 22.20 MB, Heap Used 20.29 MB, External 3.25 MB
+
+22:01:12 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.18 MB, Heap Total 23.20 MB, Heap Used 20.28 MB, External 3.25 MB
+
+22:01:11 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.10 MB, Heap Total 22.20 MB, Heap Used 20.28 MB, External 3.25 MB
+
+22:01:10 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.10 MB, Heap Total 21.95 MB, Heap Used 20.30 MB, External 3.25 MB
+
+22:01:09 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.29 MB, Heap Total 21.95 MB, Heap Used 20.47 MB, External 3.25 MB
+
+22:01:08 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.06 MB, Heap Total 21.95 MB, Heap Used 20.25 MB, External 3.24 MB
+
+22:01:07 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.05 MB, Heap Total 21.95 MB, Heap Used 20.22 MB, External 3.24 MB
+
+22:01:06 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.05 MB, Heap Total 21.95 MB, Heap Used 20.25 MB, External 3.24 MB
+
+22:01:05 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.05 MB, Heap Total 21.95 MB, Heap Used 20.26 MB, External 3.24 MB
+
+22:01:04 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.25 MB, Heap Total 21.95 MB, Heap Used 20.44 MB, External 3.24 MB
+
+22:01:03 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.02 MB, Heap Total 21.95 MB, Heap Used 20.22 MB, External 3.24 MB
+
+22:01:02 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.02 MB, Heap Total 21.95 MB, Heap Used 20.22 MB, External 3.24 MB
+
+22:01:01 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.03 MB, Heap Total 21.95 MB, Heap Used 20.21 MB, External 3.24 MB
+
+22:01:00 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.04 MB, Heap Total 21.95 MB, Heap Used 20.23 MB, External 3.24 MB
+
+22:00:59 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.23 MB, Heap Total 21.95 MB, Heap Used 20.41 MB, External 3.24 MB
+
+22:00:58 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.02 MB, Heap Total 21.95 MB, Heap Used 20.16 MB, External 3.24 MB
+
+22:00:57 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.01 MB, Heap Total 21.95 MB, Heap Used 20.18 MB, External 3.24 MB
+
+22:00:56 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.00 MB, Heap Total 21.95 MB, Heap Used 20.18 MB, External 3.24 MB
+
+22:00:55 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.99 MB, Heap Total 21.95 MB, Heap Used 20.17 MB, External 3.24 MB
+
+22:00:54 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.19 MB, Heap Total 21.95 MB, Heap Used 20.37 MB, External 3.24 MB
+
+22:00:53 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.96 MB, Heap Total 21.95 MB, Heap Used 20.12 MB, External 3.24 MB
+
+22:00:52 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.95 MB, Heap Total 21.95 MB, Heap Used 20.12 MB, External 3.24 MB
+
+22:00:51 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.95 MB, Heap Total 21.95 MB, Heap Used 20.15 MB, External 3.24 MB
+
+22:00:50 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.95 MB, Heap Total 21.95 MB, Heap Used 20.16 MB, External 3.24 MB
+
+22:00:49 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.14 MB, Heap Total 21.95 MB, Heap Used 20.34 MB, External 3.24 MB
+
+22:00:48 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.91 MB, Heap Total 21.95 MB, Heap Used 20.12 MB, External 3.24 MB
+
+22:00:47 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.91 MB, Heap Total 21.95 MB, Heap Used 20.12 MB, External 3.24 MB
+
+22:00:46 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.91 MB, Heap Total 21.95 MB, Heap Used 20.11 MB, External 3.24 MB
+
+22:00:45 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.91 MB, Heap Total 21.95 MB, Heap Used 20.13 MB, External 3.24 MB
+
+22:00:44 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.11 MB, Heap Total 21.95 MB, Heap Used 20.31 MB, External 3.24 MB
+
+22:00:43 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.88 MB, Heap Total 21.95 MB, Heap Used 20.06 MB, External 3.24 MB
+
+22:00:42 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.87 MB, Heap Total 21.95 MB, Heap Used 20.08 MB, External 3.24 MB
+
+22:00:41 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.86 MB, Heap Total 21.95 MB, Heap Used 20.05 MB, External 3.24 MB
+
+22:00:40 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.87 MB, Heap Total 21.95 MB, Heap Used 20.10 MB, External 3.24 MB
+
+22:00:39 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.07 MB, Heap Total 21.95 MB, Heap Used 20.27 MB, External 3.24 MB
+
+22:00:38 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.84 MB, Heap Total 21.95 MB, Heap Used 20.03 MB, External 3.24 MB
+
+22:00:37 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.84 MB, Heap Total 21.95 MB, Heap Used 20.05 MB, External 3.24 MB
+
+22:00:36 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.84 MB, Heap Total 21.95 MB, Heap Used 20.02 MB, External 3.23 MB
+
+22:00:35 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.84 MB, Heap Total 21.95 MB, Heap Used 20.06 MB, External 3.23 MB
+
+22:00:34 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.04 MB, Heap Total 21.95 MB, Heap Used 20.25 MB, External 3.23 MB
+
+22:00:33 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.80 MB, Heap Total 21.95 MB, Heap Used 20.02 MB, External 3.23 MB
+
+22:00:32 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.80 MB, Heap Total 21.95 MB, Heap Used 19.99 MB, External 3.23 MB
+
+22:00:31 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.79 MB, Heap Total 21.95 MB, Heap Used 19.99 MB, External 3.23 MB
+
+22:00:30 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.80 MB, Heap Total 21.95 MB, Heap Used 20.03 MB, External 3.23 MB
+
+22:00:28 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.98 MB, Heap Total 21.95 MB, Heap Used 20.21 MB, External 3.23 MB
+
+22:00:27 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.75 MB, Heap Total 21.95 MB, Heap Used 19.99 MB, External 3.23 MB
+
+22:00:26 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.75 MB, Heap Total 21.95 MB, Heap Used 19.98 MB, External 3.23 MB
+
+22:00:25 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.75 MB, Heap Total 21.94 MB, Heap Used 19.98 MB, External 3.23 MB
+
+22:00:24 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.74 MB, Heap Total 21.94 MB, Heap Used 20.00 MB, External 3.23 MB
+
+22:00:23 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.93 MB, Heap Total 21.94 MB, Heap Used 20.14 MB, External 3.23 MB
+
+22:00:22 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.70 MB, Heap Total 21.94 MB, Heap Used 19.95 MB, External 3.23 MB
+
+22:00:21 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.70 MB, Heap Total 21.94 MB, Heap Used 19.92 MB, External 3.23 MB
+
+22:00:20 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.70 MB, Heap Total 21.94 MB, Heap Used 19.95 MB, External 3.23 MB
+
+22:00:19 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.70 MB, Heap Total 21.94 MB, Heap Used 19.97 MB, External 3.23 MB
+
+22:00:18 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.90 MB, Heap Total 21.94 MB, Heap Used 20.15 MB, External 3.23 MB
+
+22:00:17 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.67 MB, Heap Total 21.94 MB, Heap Used 19.92 MB, External 3.23 MB
+
+22:00:16 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.66 MB, Heap Total 21.94 MB, Heap Used 19.92 MB, External 3.23 MB
+
+22:00:15 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.66 MB, Heap Total 21.69 MB, Heap Used 19.94 MB, External 3.23 MB
+
+22:00:14 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.84 MB, Heap Total 21.69 MB, Heap Used 20.08 MB, External 3.23 MB
+
+22:00:13 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.91 MB, Heap Total 21.69 MB, Heap Used 19.89 MB, External 3.23 MB
+
+22:00:12 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.91 MB, Heap Total 21.69 MB, Heap Used 19.89 MB, External 3.23 MB
+
+22:00:11 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.91 MB, Heap Total 21.69 MB, Heap Used 19.86 MB, External 3.23 MB
+
+22:00:10 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.91 MB, Heap Total 21.69 MB, Heap Used 19.90 MB, External 3.23 MB
+
+22:00:09 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.11 MB, Heap Total 21.69 MB, Heap Used 20.08 MB, External 3.23 MB
+
+22:00:08 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.86 MB, Heap Total 21.69 MB, Heap Used 19.86 MB, External 3.23 MB
+
+22:00:07 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.84 MB, Heap Total 21.69 MB, Heap Used 19.85 MB, External 3.23 MB
+
+22:00:06 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.83 MB, Heap Total 21.69 MB, Heap Used 19.85 MB, External 3.23 MB
+
+22:00:05 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.83 MB, Heap Total 21.69 MB, Heap Used 19.87 MB, External 3.23 MB
+
+22:00:04 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.02 MB, Heap Total 21.69 MB, Heap Used 20.02 MB, External 3.23 MB
+
+22:00:03 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.77 MB, Heap Total 21.69 MB, Heap Used 19.82 MB, External 3.22 MB
+
+22:00:02 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.87 MB, Heap Total 21.69 MB, Heap Used 19.79 MB, External 3.22 MB
+
+22:00:01 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.91 MB, Heap Total 22.69 MB, Heap Used 19.82 MB, External 3.22 MB
+
+22:00:00 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.82 MB, Heap Total 21.43 MB, Heap Used 19.84 MB, External 3.22 MB
+
+21:59:59 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 59.02 MB, Heap Total 21.43 MB, Heap Used 20.01 MB, External 3.22 MB
+
+21:59:58 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.79 MB, Heap Total 21.43 MB, Heap Used 19.62 MB, External 3.22 MB
+
+21:59:57 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.78 MB, Heap Total 21.43 MB, Heap Used 19.65 MB, External 3.22 MB
+
+21:59:56 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.78 MB, Heap Total 21.43 MB, Heap Used 19.62 MB, External 3.22 MB
+
+21:59:55 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.78 MB, Heap Total 21.43 MB, Heap Used 19.66 MB, External 3.22 MB
+
+21:59:54 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.98 MB, Heap Total 21.43 MB, Heap Used 19.84 MB, External 3.22 MB
+
+21:59:53 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.75 MB, Heap Total 21.43 MB, Heap Used 19.62 MB, External 3.22 MB
+
+21:59:52 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.74 MB, Heap Total 21.43 MB, Heap Used 19.61 MB, External 3.22 MB
+
+21:59:51 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.73 MB, Heap Total 21.43 MB, Heap Used 19.58 MB, External 3.22 MB
+
+21:59:50 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.74 MB, Heap Total 21.43 MB, Heap Used 19.60 MB, External 3.22 MB
+
+21:59:49 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.93 MB, Heap Total 21.43 MB, Heap Used 19.81 MB, External 3.22 MB
+
+21:59:48 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.70 MB, Heap Total 21.43 MB, Heap Used 19.59 MB, External 3.22 MB
+
+21:59:47 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.70 MB, Heap Total 21.43 MB, Heap Used 19.58 MB, External 3.22 MB
+
+21:59:46 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.69 MB, Heap Total 21.43 MB, Heap Used 19.58 MB, External 3.22 MB
+
+21:59:45 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.70 MB, Heap Total 21.43 MB, Heap Used 19.60 MB, External 3.22 MB
+
+21:59:44 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.89 MB, Heap Total 21.43 MB, Heap Used 19.77 MB, External 3.22 MB
+
+21:59:43 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.66 MB, Heap Total 21.43 MB, Heap Used 19.55 MB, External 3.22 MB
+
+21:59:42 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.66 MB, Heap Total 21.43 MB, Heap Used 19.55 MB, External 3.22 MB
+
+21:59:41 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.66 MB, Heap Total 21.43 MB, Heap Used 19.55 MB, External 3.22 MB
+
+21:59:40 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.66 MB, Heap Total 21.43 MB, Heap Used 19.56 MB, External 3.22 MB
+
+21:59:39 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.86 MB, Heap Total 21.43 MB, Heap Used 19.74 MB, External 3.22 MB
+
+21:59:38 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.62 MB, Heap Total 21.43 MB, Heap Used 19.52 MB, External 3.22 MB
+
+21:59:37 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.62 MB, Heap Total 21.43 MB, Heap Used 19.52 MB, External 3.22 MB
+
+21:59:36 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.62 MB, Heap Total 21.43 MB, Heap Used 19.51 MB, External 3.22 MB
+
+21:59:35 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.61 MB, Heap Total 21.18 MB, Heap Used 19.53 MB, External 3.22 MB
+
+21:59:34 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.80 MB, Heap Total 21.17 MB, Heap Used 19.71 MB, External 3.22 MB
+
+21:59:33 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.57 MB, Heap Total 21.17 MB, Heap Used 19.49 MB, External 3.22 MB
+
+21:59:32 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.56 MB, Heap Total 21.17 MB, Heap Used 19.48 MB, External 3.22 MB
+
+21:59:31 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.56 MB, Heap Total 21.17 MB, Heap Used 19.45 MB, External 3.22 MB
+
+21:59:30 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.57 MB, Heap Total 21.17 MB, Heap Used 19.50 MB, External 3.21 MB
+
+21:59:29 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.75 MB, Heap Total 21.17 MB, Heap Used 19.67 MB, External 3.21 MB
+
+21:59:28 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.53 MB, Heap Total 21.17 MB, Heap Used 19.45 MB, External 3.21 MB
+
+21:59:27 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.52 MB, Heap Total 21.17 MB, Heap Used 19.45 MB, External 3.21 MB
+
+21:59:26 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.52 MB, Heap Total 21.17 MB, Heap Used 19.45 MB, External 3.21 MB
+
+21:59:25 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.52 MB, Heap Total 21.17 MB, Heap Used 19.46 MB, External 3.21 MB
+
+21:59:24 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.72 MB, Heap Total 21.17 MB, Heap Used 19.64 MB, External 3.21 MB
+
+21:59:23 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.49 MB, Heap Total 21.17 MB, Heap Used 19.39 MB, External 3.21 MB
+
+21:59:22 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.48 MB, Heap Total 21.17 MB, Heap Used 19.42 MB, External 3.21 MB
+
+21:59:21 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.48 MB, Heap Total 21.17 MB, Heap Used 19.41 MB, External 3.21 MB
+
+21:59:20 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.49 MB, Heap Total 21.17 MB, Heap Used 19.43 MB, External 3.21 MB
+
+21:59:19 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.64 MB, Heap Total 21.17 MB, Heap Used 19.58 MB, External 3.21 MB
+
+21:59:18 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.41 MB, Heap Total 21.17 MB, Heap Used 19.39 MB, External 3.21 MB
+
+21:59:17 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.41 MB, Heap Total 21.17 MB, Heap Used 19.38 MB, External 3.21 MB
+
+21:59:16 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.41 MB, Heap Total 21.17 MB, Heap Used 19.38 MB, External 3.21 MB
+
+21:59:15 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.41 MB, Heap Total 21.17 MB, Heap Used 19.40 MB, External 3.21 MB
+
+21:59:14 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.61 MB, Heap Total 21.17 MB, Heap Used 19.57 MB, External 3.21 MB
+
+21:59:13 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.38 MB, Heap Total 21.17 MB, Heap Used 19.35 MB, External 3.21 MB
+
+21:59:12 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.36 MB, Heap Total 21.17 MB, Heap Used 19.35 MB, External 3.21 MB
+
+21:59:11 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.37 MB, Heap Total 21.17 MB, Heap Used 19.35 MB, External 3.21 MB
+
+21:59:10 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.36 MB, Heap Total 21.17 MB, Heap Used 19.36 MB, External 3.21 MB
+
+21:59:09 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.55 MB, Heap Total 21.17 MB, Heap Used 19.54 MB, External 3.21 MB
+
+21:59:08 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.32 MB, Heap Total 21.16 MB, Heap Used 19.32 MB, External 3.21 MB
+
+21:59:07 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.32 MB, Heap Total 21.16 MB, Heap Used 19.32 MB, External 3.21 MB
+
+21:59:06 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.31 MB, Heap Total 21.16 MB, Heap Used 19.31 MB, External 3.21 MB
+
+21:59:05 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.31 MB, Heap Total 21.16 MB, Heap Used 19.33 MB, External 3.21 MB
+
+21:59:04 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.86 MB, Heap Total 21.16 MB, Heap Used 19.51 MB, External 3.21 MB
+
+21:59:03 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 57.96 MB, Heap Total 21.16 MB, Heap Used 19.28 MB, External 3.21 MB
+
+21:59:02 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 57.97 MB, Heap Total 21.16 MB, Heap Used 19.28 MB, External 3.21 MB
+
+21:59:01 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 57.96 MB, Heap Total 21.16 MB, Heap Used 19.27 MB, External 3.21 MB
+
+21:59:00 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 57.96 MB, Heap Total 21.16 MB, Heap Used 19.29 MB, External 3.21 MB
+
+21:58:59 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.16 MB, Heap Total 21.16 MB, Heap Used 19.47 MB, External 3.21 MB
+
+21:58:58 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 57.93 MB, Heap Total 21.16 MB, Heap Used 19.25 MB, External 3.20 MB
+
+21:58:57 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 57.93 MB, Heap Total 21.16 MB, Heap Used 19.24 MB, External 3.20 MB
+
+21:58:56 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 57.91 MB, Heap Total 21.16 MB, Heap Used 19.24 MB, External 3.20 MB
+
+21:58:55 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 57.92 MB, Heap Total 21.16 MB, Heap Used 19.26 MB, External 3.20 MB
+
+21:58:54 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 58.46 MB, Heap Total 21.16 MB, Heap Used 19.43 MB, External 3.20 MB
+
+21:58:53 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 57.88 MB, Heap Total 21.16 MB, Heap Used 19.21 MB, External 3.20 MB
+
+21:58:52 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 57.88 MB, Heap Total 21.16 MB, Heap Used 19.21 MB, External 3.20 MB
+
+21:58:51 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 57.87 MB, Heap Total 21.16 MB, Heap Used 19.21 MB, External 3.20 MB
+
+21:58:50 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
+Load Average: 0.00
+Memory Usage: RSS 57.88 MB, Heap Total 20.91 MB, Heap Used 19.23 MB, External 3.20 MB
+
 21:58:48 - CPU Usage: 0.00% (User: 0.00%, System: 0.00%)
 Load Average: 0.00
 Memory Usage: RSS 58.13 MB, Heap Total 21.91 MB, Heap Used 19.40 MB, External 3.20 MB
