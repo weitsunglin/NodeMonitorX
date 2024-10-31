@@ -1,0 +1,12 @@
+global:
+  scrape_interval: 5s  # 設定數據抓取的間隔時間
+
+scrape_configs:
+  - job_name: 'node_app'
+    scrape_interval: 5s
+    static_configs:
+      - targets: ['host.docker.internal:3001']  # Node.js 應用程式的端口
+
+  - job_name: 'sqlserver'
+    static_configs:
+      - targets: ['sqlserver:1433']  # SQL Server 的 Prometheus 指標目標

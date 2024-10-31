@@ -8,7 +8,7 @@ const ServiceStatus = Object.freeze({
 
 class SystemInfoController {
   constructor() {
-    this.systemInfo = { name: "Services", version: "1.0.0", status: ServiceStatus.MAINTENANCE };
+    this.systemInfo = { name: "Services", version: "1.0.0", status: ServiceStatus.RUNNING };
   }
 
   getSystemInfo(req, res) {

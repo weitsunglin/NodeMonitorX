@@ -9,7 +9,7 @@ const WebSocket = require("ws");
 // =============================================================
 // 維護模式設定
 // =============================================================
-let maintenanceMode = true; // 初始狀態為非維護模式
+let maintenanceMode = false; // 初始狀態為非維護模式
 
 // =============================================================
 // Controller
@@ -22,19 +22,30 @@ const LogController = require("./controllers/LogController");
 const _logController = new LogController();
 const StressTestController = require("./controllers/StressTestController");
 const StressController = new StressTestController();
-const DBController = require("./controllers/DBController");  // 新增 DBController
+const DBController = require("./controllers/DBController");
 
+const MetricsController = require("./controllers/MetricsController");
 
 // =============================================================
 //  HTTP 路由處理函式
 // =============================================================
 function handleHttpRequest(request, response) {
+  const start = Date.now();
   const { pathname } = new URL(request.url, `http://${request.headers.host}`);
+  const method = request.method;
+  let statusCode = 200; 
 
   // 檢查維護模式
   if (maintenanceMode && pathname !== "/system") {
+    statusCode = 503;
+    MetricsController.countRequest(method, pathname, statusCode);
     response.writeHead(503, { "Content-Type": "text/plain" }).end("Service is under maintenance. Please try again later.");
     return;
+  }
+
+  // 增加 `/metrics` 路徑供 Prometheus 獲取數據
+  if (pathname === "/metrics" && request.method === "GET") {
+    return MetricsController.getMetrics(request, response);
   }
 
   if (pathname === "/system" && request.method === "GET") {
@@ -46,8 +57,14 @@ function handleHttpRequest(request, response) {
   } else if (pathname === "/cpu-stress/stop" && request.method === "GET") {
     StressController.stopStressTest(request, response);
   } else {
+    statusCode = 404;
     console.log("Received request with no match:", request, response);
   }
+
+  // 計算請求的處理時間並更新指標
+  const duration = (Date.now() - start) / 1000;
+  MetricsController.countRequest(method, pathname, statusCode);
+  MetricsController.observeRequestDuration(method, pathname, statusCode, duration);
 }
 
 // =============================================================
@@ -74,6 +91,7 @@ function createWebSocketServer() {
 //  處理 WebSocket 連線
 // =============================================================
 function handleWebSocketConnection(ws) {
+  let statusCode = 300; 
   // 檢查維護模式
   if (maintenanceMode) {
     ws.send("Service is under maintenance. WebSocket connection will be closed.");
@@ -82,6 +100,8 @@ function handleWebSocketConnection(ws) {
   }
 
   console.log("WebSocket client connected");
+  MetricsController.incrementWebSocketConnections();
+  MetricsController.countRequest("WebSocket", "/ws/connect", statusCode);
 
   ws.on("message", (message) => {
     console.log("Received message:", message.toString());
@@ -89,6 +109,8 @@ function handleWebSocketConnection(ws) {
 
   ws.on("close", () => {
     console.log("WebSocket client disconnected");
+    MetricsController.decrementWebSocketConnections();
+    MetricsController.countRequest("WebSocket", "/ws/disconnect", statusCode);
   });
 }
 

@@ -31,9 +31,28 @@ services:
     networks:
       - mynetwork
 
+  prometheus:
+    image: prom/prometheus
+    volumes:
+      - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml  # 更新為 prometheus 資料夾中的配置文件
+    ports:
+      - "9090:9090"  # Prometheus 預設端口
+    networks:
+      - mynetwork
+
+  grafana:
+    image: grafana/grafana
+    ports:
+      - "3000:3000"  # Grafana 預設端口
+    networks:
+      - mynetwork
+    volumes:
+      - grafana_data:/var/lib/grafana  # 保持 Grafana 資料的持久化
+
 volumes:
   sqlserver_data:
   jenkins_home:
+  grafana_data:
 
 networks:
   mynetwork:
