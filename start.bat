@@ -1,7 +1,7 @@
-@echo off
-echo Installing project dependencies...
-npm install ws mssql
-echo Installation complete.
+cd C:\Users\User\Desktop\work_space\node_js_server_app\docker
 
-echo Start Service...
+docker-compose up --build -d 
+
+cd C:\Users\User\Desktop\work_space\node_js_server_app
+
 node app.js
