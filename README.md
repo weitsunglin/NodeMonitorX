@@ -4,6 +4,33 @@
 
 ![DEMO_1](https://github.com/weitsunglin/node_js_server_app/blob/main/demo/09.png)
 
+### 模組介面
+
+## 終端機啟動
+![DEMO_2](https://github.com/weitsunglin/node_js_server_app/blob/main/demo/05.png)
+
+## Docker啟動
+
+![DEMO_2](https://github.com/weitsunglin/node_js_server_app/blob/main/demo/06.png)
+
+## Prometheus
+
+![DEMO_2](https://github.com/weitsunglin/node_js_server_app/blob/main/demo/04.png)
+
+
+## Grafana
+
+![DEMO_2](https://github.com/weitsunglin/node_js_server_app/blob/main/demo/03.png)
+
+
+## 系統資訊
+
+![DEMO_2](https://github.com/weitsunglin/node_js_server_app/blob/main/demo/01.png)
+
+
+## 操控SQL的View
+
+![DEMO_2](https://github.com/weitsunglin/node_js_server_app/blob/main/demo/02.png)
 
 ### 使用說明
 
@@ -21,9 +48,11 @@
     cd C:\Users\User\Desktop\work_space\node_js_server_app
     node app.js
 
-6. 查看 Grafana  http://localhost:3000，預設使用者名稱和密碼是 admin / admin
+6. 查看 Grafana
+   http://localhost:3000，預設使用者名稱和密碼是 admin / admin
 
-7. 添加 Prometheus 數據源，URL 填寫 http://prometheus:9090
+8. 添加 Prometheus 數據源
+   URL 填寫 http://prometheus:9090
 
 
 ### 測試方式
