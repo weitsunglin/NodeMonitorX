@@ -1,26 +1,33 @@
-//依賴
 const fs = require("fs");
 const path = require("path");
 
-//Model
-const systemInfoModel = require("../models/systemInfoModel");
+const ServiceStatus = Object.freeze({
+  RUNNING: "Running",
+  MAINTENANCE: "Maintenance"
+});
 
-class systemInfoController {
+class SystemInfoController {
   constructor() {
-    this.systemInfoModel = new systemInfoModel();
+    this.systemInfo = { name: "Services", version: "1.0.0", status: ServiceStatus.MAINTENANCE };
   }
 
   getSystemInfo(req, res) {
-    const systemInfo = this.systemInfoModel.getSystemInfo();
+    // 計算系統運行時間
+    const secs = process.uptime();
+    this.systemInfo.uptime = `${Math.floor(secs / 3600)}h ${Math.floor((secs % 3600) / 60)}m ${Math.floor(secs % 60)}s`;
+    
+    // 回應給clinet端的view範本
     fs.readFile(path.join(__dirname, "../views/SystemInfoView.html"), "utf-8", (err, data) => {
       if (err) return res.writeHead(500).end("Error loading view");
+
       const renderedView = data.replace(
         /<div id="system-info">.*<\/div>/s,
-        `<div id="system-info">${Object.entries(systemInfo).map(([key, val]) => `<p><strong>${key}:</strong> ${val}</p>`).join("")}</div>`
+        `<div id="system-info">${Object.entries(this.systemInfo).map(([key, val]) => `<p><strong>${key}:</strong> ${val}</p>`).join("")}</div>`
       );
+      
       res.writeHead(200, { "Content-Type": "text/html" }).end(renderedView);
     });
   }
 }
 
-module.exports = systemInfoController;
+module.exports = SystemInfoController;
