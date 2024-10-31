@@ -5,7 +5,6 @@ const http = require("http");
 const { URL } = require("url");
 const WebSocket = require("ws");
 
-
 // =============================================================
 // 維護模式設定
 // =============================================================
@@ -16,24 +15,24 @@ let maintenanceMode = false; // 初始狀態為非維護模式
 // =============================================================
 const SystemInfoController = require("./controllers/SystemInfoController");
 const _systemInfoController = new SystemInfoController();
+
 const DownloadController = require("./controllers/DownloadController");
 const _downloadController = new DownloadController();
+
 const LogController = require("./controllers/LogController");
 const _logController = new LogController();
-const StressTestController = require("./controllers/StressTestController");
-const StressController = new StressTestController();
-const DBController = require("./controllers/DBController");
 
+const DBController = require("./controllers/DBController");
 const MetricsController = require("./controllers/MetricsController");
 
 // =============================================================
-//  HTTP 路由處理函式
+// HTTP 路由處理函式
 // =============================================================
 function handleHttpRequest(request, response) {
   const start = Date.now();
   const { pathname } = new URL(request.url, `http://${request.headers.host}`);
   const method = request.method;
-  let statusCode = 200; 
+  let statusCode = 200;
 
   // 檢查維護模式
   if (maintenanceMode && pathname !== "/system") {
@@ -52,13 +51,10 @@ function handleHttpRequest(request, response) {
     _systemInfoController.getSystemInfo(request, response);
   } else if (pathname === "/download" && request.method === "GET") {
     _downloadController.handleFileDownload(request, response);
-  } else if (pathname === "/cpu-stress/start" && request.method === "GET") {
-    StressController.startStressTest(request, response);
-  } else if (pathname === "/cpu-stress/stop" && request.method === "GET") {
-    StressController.stopStressTest(request, response);
   } else {
     statusCode = 404;
-    console.log("Received request with no match:", request, response);
+    MetricsController.countRequest(method, pathname, statusCode);
+    console.log("Received request with no match:");
   }
 
   // 計算請求的處理時間並更新指標
@@ -68,7 +64,7 @@ function handleHttpRequest(request, response) {
 }
 
 // =============================================================
-//  啟動 HTTP 伺服器
+// 啟動 HTTP 伺服器
 // =============================================================
 function createHttpServer() {
   const httpServer = http.createServer(handleHttpRequest);
@@ -78,7 +74,7 @@ function createHttpServer() {
 }
 
 // =============================================================
-//  建立 WebSocket 伺服器
+// 建立 WebSocket 伺服器
 // =============================================================
 function createWebSocketServer() {
   const wsServer = new WebSocket.Server({ port: 3002 });
@@ -88,14 +84,15 @@ function createWebSocketServer() {
 }
 
 // =============================================================
-//  處理 WebSocket 連線
+// 處理 WebSocket 連線
 // =============================================================
 function handleWebSocketConnection(ws) {
-  let statusCode = 300; 
+  let statusCode = 300;
+
   // 檢查維護模式
   if (maintenanceMode) {
     ws.send("Service is under maintenance. WebSocket connection will be closed.");
-    ws.close(); // 關閉連線
+    ws.close();
     return;
   }
 
@@ -115,22 +112,13 @@ function handleWebSocketConnection(ws) {
 }
 
 // =============================================================
-//  啟動 HTTP 和 WebSocket 伺服器
+// 啟動 HTTP 和 WebSocket 伺服器
 // =============================================================
 function startServers() {
   createHttpServer();
   createWebSocketServer();
 }
 
-
-async function initializeApp() {
-  try {
-    await DBController.initializeDatabase();
-    startServers();
-  } catch (err) {
-    console.error("Failed to initialize the app:", err);
-    process.exit(1);
-  }
-}
-
-initializeApp();
+// 初始化並啟動應用
+DBController.initializeDatabase();
+startServers();

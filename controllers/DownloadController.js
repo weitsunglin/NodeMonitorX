@@ -3,7 +3,7 @@ const path = require("path");
 
 class DownloadController {
   constructor() {
-    this.downloadFilePath = path.join("C:/Users/User/Desktop/work_space/node_js_server_app/download", "file.txt");
+    this.downloadFilePath = "C:/Users/User/Desktop/work_space/node_js_server_app/download/file.txt";
   }
 
   handleFileDownload(req, res) {
@@ -14,7 +14,7 @@ class DownloadController {
       }
       res.writeHead(200, {
         "Content-Type": "application/octet-stream",
-        "Content-Disposition": "attachment; filename=file.txt"
+        "Content-Disposition": "attachment; filename=file.txt",
       });
       fs.createReadStream(this.downloadFilePath).pipe(res);
     });

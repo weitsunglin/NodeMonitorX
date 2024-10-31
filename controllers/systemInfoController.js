@@ -16,7 +16,7 @@ class SystemInfoController {
     const secs = process.uptime();
     this.systemInfo.uptime = `${Math.floor(secs / 3600)}h ${Math.floor((secs % 3600) / 60)}m ${Math.floor(secs % 60)}s`;
     
-    // 回應給clinet端的view範本
+    // 回應client端的view範本
     fs.readFile(path.join(__dirname, "../views/SystemInfoView.html"), "utf-8", (err, data) => {
       if (err) return res.writeHead(500).end("Error loading view");
 
