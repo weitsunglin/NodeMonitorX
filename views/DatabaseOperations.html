@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Database Operations</title>
+</head>
+
+<body>
+  <h1>Database Operations</h1>
+
+  <!-- SQL 輸入區域和執行按鈕 -->
+  <h2>Execute SQL Query</h2>
+  <textarea id="sqlQuery" rows="4" cols="50" placeholder="Enter your SQL query here..."></textarea>
+  <br>
+  <button onclick="executeQuery()">Execute Query</button>
+
+  <!-- 結果顯示區 -->
+  <div id="result"></div>
+
+  <script>
+    const apiUrl = "http://localhost:3001/db";
+
+    // 新增 executeQuery 函數，用於執行自定義 SQL 查詢
+    async function executeQuery() {
+      const query = document.getElementById("sqlQuery").value;
+
+      const response = await fetch(`${apiUrl}/execute-query`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ query })
+      });
+
+      const result = await response.json();
+      document.getElementById("result").innerText = JSON.stringify(result, null, 2);
+    }
+  </script>
+</body>
+</html>

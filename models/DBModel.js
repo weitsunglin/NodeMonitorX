@@ -41,6 +41,17 @@ class DBModel {
       }
     }
   }
+
+   // 新增 query 方法，用於執行 SQL 查詢
+   async query(queryString, params = {}) {
+    await this.connect();
+    const request = this.connection.request();
+    Object.entries(params).forEach(([key, value]) => {
+      request.input(key, value);
+    });
+    return await request.query(queryString);
+  }
+  
 }
 
 module.exports = new DBModel();

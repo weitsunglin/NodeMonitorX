@@ -10,6 +10,10 @@ class DBController {
     await DBModel.disconnect();
     console.log("Database disconnected successfully");
   }
+
+  async executeQuery(query) {
+    return await DBModel.query(query);
+  }
 }
 
 module.exports = new DBController();

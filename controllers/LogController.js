@@ -49,8 +49,12 @@ class LogController {
                      `Load Average: ${currentLoadAvg}\n` +
                      `Memory Usage: RSS ${memoryDetails.rss} MB, Heap Total ${memoryDetails.heapTotal} MB, Heap Used ${memoryDetails.heapUsed} MB, External ${memoryDetails.external} MB\n\n`;
 
-    fs.appendFile(this.logFilePath, logEntry, (err) => {
-      if (err) console.error("無法寫入系統日誌:", err);
+    // 讀取現有日誌並將新日誌加在最前面，然後覆蓋寫入文件
+    fs.readFile(this.logFilePath, "utf-8", (err, data) => {
+      const newLogData = logEntry + data; // 新日誌放在前面
+      fs.writeFile(this.logFilePath, newLogData, (err) => {
+        if (err) console.error("無法寫入系統日誌:", err);
+      });
     });
   }
 }
