@@ -27,10 +27,7 @@ pipeline {
                     sh """
                     docker exec ${SQL_SERVER_CONTAINER_NAME} ${SQLCMD} -S localhost -U sa -P '${SA_PASSWORD}' -Q "BACKUP DATABASE [MyDatabase] TO DISK = N'/var/opt/mssql/backup/${SQL_BACKUP_FILE}' WITH NOFORMAT, NOINIT, NAME = 'MyDatabase-full', SKIP, NOREWIND, NOUNLOAD, STATS = 10"
                     """
-                    
-                    // 列出 /var/opt/mssql/backup 目錄的內容
-                    sh "docker exec ${SQL_SERVER_CONTAINER_NAME} ls -la /var/opt/mssql/backup"
-                    
+                                        
                     // 將備份文件複製到本地掛載目錄
                     sh """
                     docker cp ${SQL_SERVER_CONTAINER_NAME}:/var/opt/mssql/backup/${SQL_BACKUP_FILE} ${LOCAL_BACKUP_PATH}/
@@ -45,9 +42,6 @@ pipeline {
                     sh """
                     tar -czf ${LOCAL_BACKUP_PATH}/${JENKINS_BACKUP_FILE} -C /var/jenkins_home . || true
                     """
-                    
-                    // 列出 /shared_data 目錄的內容
-                    sh 'ls -la /shared_data'
                 }
             }
         }
@@ -56,8 +50,7 @@ pipeline {
         always {
             // 列出 /shared_data 目錄的內容
             sh 'ls -la /shared_data'
-            
-            cleanWs()
+
         }
     }
 }
