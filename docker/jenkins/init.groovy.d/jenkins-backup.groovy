@@ -50,7 +50,6 @@ pipeline {
         always {
             // 列出 /shared_data 目錄的內容
             sh 'ls -la /shared_data'
-
         }
     }
 }

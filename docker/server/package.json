@@ -1,0 +1,15 @@
+{
+    "name": "nodejs-app",
+    "version": "1.0.0",
+    "description": "A simple Node.js app with WebSocket and Prometheus monitoring",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "ws": "^8.13.0",
+      "mssql": "^9.1.1",
+      "prom-client": "^14.0.1"
+    }
+  }
+  

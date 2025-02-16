@@ -4,15 +4,20 @@ GO
 USE MyDatabase;
 GO
 
-CREATE TABLE YourTable (
+CREATE TABLE SystemTable (
     ID INT PRIMARY KEY IDENTITY(1,1),
-    Name NVARCHAR(100) NOT NULL,
-    Age INT NOT NULL
+    SystemName NVARCHAR(100) NOT NULL,
+    SystemVersion NVARCHAR(50) NOT NULL,
+    MaintenanceMode BIT NOT NULL DEFAULT 0  -- 0 = False, 1 = True
 );
 GO
 
-INSERT INTO YourTable (Name, Age) VALUES ('John Doe', 30);
+-- 插入測試資料
+INSERT INTO SystemTable (SystemName, SystemVersion, MaintenanceMode) 
+VALUES ('MySystem', '1.0.0', 0);  -- 0 代表 False
 GO
 
-SELECT TOP (1000) [ID], [Name], [Age] FROM [MyDatabase].[dbo].[YourTable];
+-- 查詢資料
+SELECT TOP (1000) [ID], [SystemName], [SystemVersion], [MaintenanceMode] 
+FROM [MyDatabase].[dbo].[SystemTable];
 GO

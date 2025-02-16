@@ -34,20 +34,34 @@ services:
   prometheus:
     image: prom/prometheus
     volumes:
-      - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml  # 更新為 prometheus 資料夾中的配置文件
+      - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml
     ports:
-      - "9090:9090"  # Prometheus 預設端口
+      - "9090:9090"
     networks:
       - mynetwork
 
   grafana:
     image: grafana/grafana
     ports:
-      - "3000:3000"  # Grafana 預設端口
+      - "3000:3000"
     networks:
       - mynetwork
     volumes:
-      - grafana_data:/var/lib/grafana  # 保持 Grafana 資料的持久化
+      - grafana_data:/var/lib/grafana
+  
+  nodejs:
+    build:
+      context: ./server  # 當前目錄
+      dockerfile: Dockerfile
+    ports:
+      - "3001:3001"  # 映射 HTTP 端口
+      - "3002:3002"  # 映射 WebSocket 端口
+    networks:
+      - mynetwork
+    volumes:
+      - ./server:/app  # 仍然掛載程式碼
+      - /app/node_modules  # 讓 node_modules 存在於容器內，不受覆蓋
+
 
 volumes:
   sqlserver_data:

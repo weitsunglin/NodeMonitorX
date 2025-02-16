@@ -2,58 +2,49 @@
 
 ![logo](https://github.com/weitsunglin/node_js_server_app/blob/main/demo/logo.png)
 
-### 模組功能
 
-![DEMO_1](https://github.com/weitsunglin/node_js_server_app/blob/main/demo/09.png)
-
-### 模組介面
-
-## 終端機啟動
-![DEMO_2](https://github.com/weitsunglin/node_js_server_app/blob/main/demo/05.png)
-
-## Docker啟動
+### Docker 介面
 
 ![DEMO_2](https://github.com/weitsunglin/node_js_server_app/blob/main/demo/06.png)
 
-## Prometheus
 
+### 模組介面
+
+#### 系統資訊
+http://localhost:3001/system
+![DEMO_1](https://github.com/weitsunglin/node_js_server_app/blob/main/demo/09.png)
+
+
+#### 操控資料庫
+http://localhost:3001/db-operations
+![DEMO_2](https://github.com/weitsunglin/node_js_server_app/blob/main/demo/08.png)
+
+
+#### Prometheus
+http://localhost:9090/query
 ![DEMO_2](https://github.com/weitsunglin/node_js_server_app/blob/main/demo/04.png)
 
 
-## Grafana
 
+#### Grafana
+http://localhost:3000/login
 ![DEMO_2](https://github.com/weitsunglin/node_js_server_app/blob/main/demo/03.png)
 
 
-## 系統資訊
-
-![DEMO_2](https://github.com/weitsunglin/node_js_server_app/blob/main/demo/01.png)
-
-
-## 操控SQL的View
-
-![DEMO_2](https://github.com/weitsunglin/node_js_server_app/blob/main/demo/02.png)
 
 ### 使用說明
 
 1. 安裝docker
     https://www.docker.com/
-2. 安裝node.js
-    https://nodejs.org/en
-3. 使用npm安裝server依賴套件 
-    npm install ws mssql
-    npm install prom-client
-4. 啟動docker 
-    cd C:\Users\User\Desktop\work_space\node_js_server_app\docker
-    docker-compose up --build -d 
-5. 啟動伺服器
-    cd C:\Users\User\Desktop\work_space\node_js_server_app
-    node app.js
 
-6. 查看 Grafana
+2. 執行start.bat
+
+3. 第一次啟動可能會錯誤，因為DB Model 會去連資料庫 (MyDatabase)，而資料庫可能還沒被建立 !
+
+4. 查看 Grafana
    http://localhost:3000，預設使用者名稱和密碼是 admin / admin
 
-8. 添加 Prometheus 數據源
+5. 添加 Prometheus 數據源
    URL 填寫 http://prometheus:9090
 
 
@@ -94,11 +85,6 @@ wscat -c ws://localhost:3002
 發送消息以測試 WebSocket：
 > Hello, WebSocket!
 
-```
-
-3. 測試 SQL 連線
-```
-http://localhost:3001/db-operations
 ```
 
 © 2024 weitusnglin. All rights reserved.

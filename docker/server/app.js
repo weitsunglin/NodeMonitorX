@@ -11,7 +11,7 @@ const path = require("path");
 // =============================================================
 // 維護模式設定
 // =============================================================
-let maintenanceMode = false; // 初始狀態為非維護模式
+let maintenanceMode = false; // 初始狀態為非維護模式，可吃資料庫設定，目前先寫死
 
 // =============================================================
 // Controller
@@ -31,14 +31,6 @@ const MetricsController = require("./controllers/MetricsController");
 // =============================================================
 // HTTP 路由處理函式
 // =============================================================
-
-async function parseRequestBody(request) {
-  return new Promise((resolve) => {
-    let body = '';
-    request.on("data", (chunk) => { body += chunk.toString(); });
-    request.on("end", () => resolve(JSON.parse(body)));
-  });
-}
 
 async function parseRequestBody(request) {
   return new Promise((resolve) => {
