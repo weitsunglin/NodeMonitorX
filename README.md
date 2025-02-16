@@ -5,29 +5,37 @@
 
 ### Docker 介面
 
-![DEMO_2](https://github.com/weitsunglin/node_js_server_app/blob/main/demo/06.png)
+![DEMO_2](https://github.com/weitsunglin/node_js_server_app/blob/main/demo/06.jpg)
 
 
 ### 模組介面
 
 #### 系統資訊
+
 http://localhost:3001/system
-![DEMO_1](https://github.com/weitsunglin/node_js_server_app/blob/main/demo/09.png)
+
+![DEMO_1](https://github.com/weitsunglin/node_js_server_app/blob/main/demo/01.png)
 
 
 #### 操控資料庫
+
 http://localhost:3001/db-operations
-![DEMO_2](https://github.com/weitsunglin/node_js_server_app/blob/main/demo/08.png)
+
+![DEMO_2](https://github.com/weitsunglin/node_js_server_app/blob/main/demo/08.jpg)
 
 
 #### Prometheus
+
 http://localhost:9090/query
+
 ![DEMO_2](https://github.com/weitsunglin/node_js_server_app/blob/main/demo/04.png)
 
 
 
 #### Grafana
+
 http://localhost:3000/login
+
 ![DEMO_2](https://github.com/weitsunglin/node_js_server_app/blob/main/demo/03.png)
 
 
